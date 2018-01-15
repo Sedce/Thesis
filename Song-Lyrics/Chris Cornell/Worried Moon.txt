@@ -1,3 +1,4 @@
+[verse]
 Worried moon shining bright
 Can I sleep here tonight right beside you?
 I got a long way to go
@@ -8,6 +9,7 @@ Or only want me for a friend
 And leave a stain across my heart
 That never washes out
 
+[verse]
 Nervous moon
 In the clouds
 There's a halo around your proud face
@@ -15,11 +17,12 @@ And I'm glad that we're friends
 I might see you again
 Sooner or later, I guess
 
+[bridge]
 Yeah if it all goes wrong
 And I'm a heart without a home
 Maybe you can talk me out
 Of doing myself in
-
+[chorus]
 Worried moon
 I'm afraid of what's to come
 Worried moon
@@ -28,6 +31,7 @@ Worried moon
 You see further down the road
 Worried moon
 
+[verse]
 There you are, looking down
 I'll be here on the ground if you need me
 As I dream of a ghost
@@ -35,6 +39,7 @@ Of a love that has died
 
 Or maybe not but it haunts me now
 
+[chorus]
 Worried moon
 I'm afraid of what's to come
 Worried moon
@@ -48,7 +53,7 @@ I got into the city at midnight
 All these eyes looking on
 Make me blind or put me down
 And the noise just drowns me out
-
+[chorus]
 Worried moon
 I'm afraid of what's to come
 Worried moon
@@ -56,7 +61,7 @@ Yeah, tell me what you know
 Worried moon
 You see further down the road
 Worried moon
-
+[outro]
 Dirty moon on the rise
 Orange as fire but a bitter cold
 You'll remember me I know

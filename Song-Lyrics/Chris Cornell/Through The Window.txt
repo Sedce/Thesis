@@ -1,3 +1,4 @@
+[verse]
 The clouds that gathered turned to rain
 The candles on your sill burned out
 The weather on your face
@@ -7,7 +8,7 @@ Reading through poems that you saved
 That make the gloomy hours make sense
 Or do they lose their power
 With the yellowing of age
-
+[chorus]
 I saw you suffering
 Through a foggy window in the rain
 When you thought no one was watching, yeah
@@ -17,13 +18,13 @@ And become someone else
 With another face
 And another name
 No more suffering
-
+[bridge]
 You sold the best of yourself out
 On a chain of grey and white lies
 One syllable at a time
 You should have made them pay
 A higher price
-
+[chorus
 I saw you suffering
 Through the cracked and dirty window pane
 I was ashamed that I was watching, yeah
@@ -33,7 +34,7 @@ And become somebody else, yeah
 With another face
 With another name
 No more suffering
-
+[verse]
 I wish that I could find a seed
 And plant a tree that grows so high
 So that I could climb
@@ -47,7 +48,7 @@ Of old regrets and sorrows
 So far down
 The past is like a braided rope
 Each moment tightly coiled inside
-
+[chorus]
 I saw you suffering
 Through the yellow window of a train
 With everybody watching, yeah

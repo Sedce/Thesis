@@ -1,27 +1,28 @@
+[verse]
 Night falls while drunken angels
 Sleep by the side of the road
 And I'm nodding in a stairwell
 Just trying to stay out of the cold
-
+[chorus]
 Circling around the drain
 Can't find my way back to home
 The road is long
 And never ends
 Dark is the heart that wanders
-
+[verse]
 Light breaks in through the window
 Takes a minute to know where I am
 A dying blackbird
 Gives her soul to the wind
 On the roof of the house
 That I can see from the bed
-
+[chorus]
 Circling around the drain
 Show me the way back home
 The road is long
 It never ends
 Dark is the heart that wanders
-
+[verse]
 I'd crawl a hundred thousand miles
 Just to see your two eyes look me over
 I'd steal you flowers in the bloodshot light
@@ -37,7 +38,7 @@ I thought I heard your voice in the water
 As I walked by a fountain uptown
 Now I'm an orphaned at the door of church
 Just watching the water come down
-
+[verse]
 Circling around the drain
 Hope that I make it home
 I never felt so far away

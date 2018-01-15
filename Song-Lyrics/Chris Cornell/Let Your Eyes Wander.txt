@@ -1,3 +1,4 @@
+[verse]
 When you find love
 And it gets away
 If it comes back to you
@@ -6,13 +7,13 @@ Well maybe it’s true
 As dumb as it sounds
 I ain’t gonna stop you
 From looking around
-
+[chorus]
 So let your eyes wander
 Wild and free
 Sooner or later
 You will look back
 To me
-
+[verse]
 Love can be sharp
 Make no mistake
 Flatter a good heart
@@ -21,7 +22,7 @@ It'll cut you to the bone
 Just to see you bleed out
 But that doesn’t mean, no
 I’m somebody else
-
+[chorus]
 So let your eyes wander
 The moment you think
 You see something better
@@ -30,7 +31,7 @@ So let your eyes wander
 Wander away
 And I’ll look no further
 You will come back one day
-
+[bridge]
 Followed every word that I have ever heard
 And I still don’t know what to say
 I always think I’m losing
@@ -48,6 +49,7 @@ The difference between
 One lonely tear falling
 And a season of rain
 
+[chorus]
 So let your eyes wander
 Wander away
 Your heart is young

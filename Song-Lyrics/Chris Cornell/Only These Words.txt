@@ -1,3 +1,4 @@
+[verse]
 In a castle
 Down a long road
 A little girl was born
@@ -15,11 +16,12 @@ Daddy’s little girl in his arms, well
 They sit upon his throne
 Who is that thief hiding in the dark
 Just a little girl who stole his heart
-
+[chorus]
 He would say I love you
 He would say I love you
 He would say I love you
 
+[verse]
 With only these three words repeating
 A simple greeting but it’s all you keep
 Clever lips can be misleading
@@ -34,7 +36,7 @@ No more castle down a long road
 No more kings and no more queens
 But she’s a princess none the less
 And a handsome prince is what she’ll get
-
+[chorus]
 He will say I love you
 He will say I love you
 He will say I love you

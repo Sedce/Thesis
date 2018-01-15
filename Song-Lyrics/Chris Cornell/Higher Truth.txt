@@ -1,3 +1,4 @@
+[verse]
 You can make somebody cry
 Go on
 Do what you like
@@ -11,14 +12,14 @@ It isn’t hard
 I won’t be there looking on
 To see the trail of lies
 As you fall
-
+[choru]
 But I’ll take the truth
 The higher truth
 The higher truth
 I want the truth
 The higher truth
 The higher truth
-
+[verse]
 You can fill the world with pain
 Yeah if you want
 I've seen it now
@@ -32,42 +33,42 @@ You’ll only break it
 Make a promise if you dare
 Go on right ahead
 And let’s see where it gets you
-
+[chorus]
 But I’ll take the truth
 The higher truth
 The higher truth
 I want the truth
 The higher truth
 The higher truth
-
+[bridge]
 Maybe you and I one day
 Will finally choose
 A higher truth
-
+[verse]
 Come let’s sit in the sun
 Feel the world spin around
 As the birds fly overhead
 Can’t you hear the waves
 Can’t you feel the rain
 As it falls upon your face
-
+[chorus]
 I’ll take a truth
 A higher truth
 A higher truth
 I want the truth
 The higher truth
 A higher truth
-
+[verse]
 I’ll take a truth
 A higher truth
 A higher truth
 I want the truth
 The higher truth
 A higher truth
-
+[bridge]
 Maybe you and I one day will finally choose
 The higher truth
-
+[outro]
 Can’t you feel the higher
 Can’t you feel the higher
 As it falls around?
