@@ -1,3 +1,4 @@
+[verse]
 Yeah we're just watching history
 Now that the dogs are barking
 Take a picture for your children
@@ -6,7 +7,7 @@ Life in the junkyard's hard
 Even when the dogs are sleeping
 But if you win you lose the next spin
 Madame, monsieurs, rien ne va plus
-
+[chorus]
 I watch the black and white bleeding
 Don't you know the pain I'm in
 I've been working all week
@@ -17,14 +18,14 @@ Take a straight line
 Take a straight line
 Take a straight line
 Take a straight line
-
+[verse]
 Wave goodbye to your innocence
 Sell it to the highest bidder
 In a tight spot call for assistance
 Is that American Express?
 Get me out of here
  
-
+[chorus]
 I watch the black and white bleeding
 Don't you know the pain I'm in
 I've been working all week
@@ -35,7 +36,7 @@ Take a straight line
 Take a straight line
 Take a straight line
 Take a straight line
-
+[outro]
 I'm up the top, looking down
 Everybody looks just like ants
 It would be so easy
