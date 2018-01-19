@@ -1,20 +1,21 @@
+[intro]
 No one knows it
 No one knows it
 No one knows it, no
 No one knows how good I feel
 When I see you glow
-
+[chorus]
 No one knows it
 No one knows it
 No one knows it, no
 No one knows how good I feel
 When you let it show
-
+[verse]
 Keep it coming, keep it long
 Caress me with your body song
 Reach it higher with each sigh
 Knowing soon that we will fly
-
+[chorus]
 No one knows it
 No one knows it
 No one knows it, no
@@ -27,13 +28,12 @@ No one knows it, no
 No one knows how good I feel
 When you let it flow
  
-
+[verse]
 Keep it moving, keep it bright
 And guide me with your body light
 Come in closer with each sigh
 Knowing soon that we will fly
-
-(Mika's Japanese cooing over guitar solo (Pete Ham):
+[chorus]
 No one knows
 No one knows
 No one knows
@@ -42,12 +42,12 @@ When you let it show
 No one knows
 No one knows how good I feel
 When you let it flow.)
-
+[verse]
 Keep on feeling, keep it whole
 And lead me with your body soul
 Take me higher with each sigh
 Knowing you can make me fly
-
+[outro]
 No one knows it
 No one knows it
 No one knows it, no
