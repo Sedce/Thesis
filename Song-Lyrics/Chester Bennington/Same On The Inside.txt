@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 Sending out a message to the world
 But I just can't seem to find the words
 No one wants to die alone
@@ -6,13 +6,13 @@ Broken and insane
 Question every last decision
 Another empty page
 
-[Chorus]
+[chorus]
 Do you know the answers?
 Tell me, I find my happy ending
 When do we start pretending that
 We're all the same on the inside
 
-[Verse 2]
+[verse]
 Wanting what I know won't satisfy
 Just to live this, need to live a lie
 Never meant to run away
@@ -20,15 +20,19 @@ Jumping out the train
 My cage was built on good intentions
 Running every page
 
-[Chorus]
+[chorus]
+Do you know the answers?
+Tell me, I find my happy ending
+When do we start pretending that
+We're all the same on the inside
+[bridge]
+All the same on the inside
+All the same on the inside
 
-[Bridge]
-All the same on the inside [x2]
- 
+[chorus]
+All the same on the inside
 
-[Chorus]
-
-[Outro]
+[outro]
 All the same on the inside
 We're all the same on the inside [x2]
 Yeah, we're all the same on the inside

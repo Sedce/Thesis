@@ -1,11 +1,11 @@
+[intro]
 I was born a singer
 Wasn't something I planned
 All I ever wanted was to be what I am
-
-
 I was just thirteen years old
 I heard a record that stopped me cold
 I bought a Sears guitar and I started to jam
+[verse]
 Yeah
 Nothing could be any better
 The music fit me to the letter
@@ -16,6 +16,7 @@ Wore those old records out with the needle
 Just like it was stuck in my vein
 When we were rockin' away
 Rockin' away
+[chorus
 I grew up in the 60's
 '67 was the summer of love
 Those were times when the music had something to say
@@ -34,6 +35,7 @@ It was clear there were dues left to pay
 We kept rockin' away
 Rockin' away
 Yeah
+[outro]
 Thirty years since we wrote those songs
 Now when we play them people sing along
 I'm blessed the fans have stuck with us all of the way

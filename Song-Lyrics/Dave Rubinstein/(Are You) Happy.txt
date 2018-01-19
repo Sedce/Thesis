@@ -1,8 +1,9 @@
+[verse]
 Nervous twitching, anxious bitching
 Is something disturbing you?
 Nervous laughter - what ya after?
 Ha ha the joke's on you!
-
+[chorus]
 Are you really happy?
 Are you happy?
 Pompous bragging, neurotic nagging
@@ -12,7 +13,7 @@ You're the perfect picture of misery
 
 Are you really happy?
 Huh? ...You're not happy?
-
+[verse]
 Ha ha ha... you're soooo cool
 Ha ha ha... but the joke's on you!
 

@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 Instincts that can still betray us
 A journey that leads to the sun
 Soulless and bent on destruction
@@ -8,11 +8,11 @@ I'll observe witha pitiful eye
 I'll humbly ask for forgiveness
 A request well beyond you and I
 
-[Chorus]
+[chorus]
 Heart and soul, one will burn
 Heart and soul, one will burn
 
-[Verse 2]
+[verse]
 An abyss that laughs at creation
 A circus complete with all fools
 Foundations that lasted the ages
@@ -22,19 +22,19 @@ The grip of a mercenary hand
 When savagery turns all good reason
 There's no turning back, no last stand
 
-[Chorus]
+[chorus]
 Heart and soul, one will burn
 Heart and soul, one will burn
  
 
-[Verse 3]
+[verse]
 Existence, well, what does it matter?
 I exist on the best terms I can
 The past is now part of my future
 The present is well out of hand
 The present is well out of hand
 
-[Chorus]
+[chorus]
 Heart and soul, one will burn
 Heart and soul, one will burn
 One will burn, one will burn

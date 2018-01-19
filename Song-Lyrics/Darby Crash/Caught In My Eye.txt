@@ -1,3 +1,4 @@
+[verse]
 Though your dark eyes
 You can feel my
 Every sin
@@ -5,7 +6,7 @@ When I walk right
 Into a straight line
 This world of yours
 I got you caught in my eye, again
-
+[chorus]
 You're the fall guy
 In the corner
 Of my gloom
@@ -13,14 +14,14 @@ It feels like
 Everything I see
 Is nothing new
 I got you caught in my eye, again
-
+[verse]
 There's a door there
 That opens
 Without you
 And the door lies
 With its open keys
 To my room
-
+[outro]
 Flames of the torch light
 Fill my thighs
 And I crave fulfill

@@ -1,10 +1,10 @@
-[Verse 1:]
+[verse]
 Magdalena sits in her chair speaking of the mass
 She talks in slicing splinters, she laughs like breaking glass
 She says that she would have me spirit her away
 Stealing all my images 'til there's nothing left to say
 
-[Chorus:]
+[chorus]
 Oh, Magdalena
 Nothing like the saint you are
 Your love is like a razor
@@ -12,14 +12,14 @@ My heart is just a-scar
 Oh, Magdalena
 Nothing like the saint you are
 
-[Verse 2:]
+[verse]
 Magdalena lying there could make a dancer stumble
 Make a preacher bite his tongue and leave him with a mumble
 And if you think I'm crazy, babe, or that I'm funning you
 Just pay your dues and lose your blues
 When Maggie is kissing you
 
-[Chorus:]
+[chorus]
 Oh, Magdalena
 Nothing like the saint you are
 Your love is like a razor
@@ -27,7 +27,7 @@ My heart is just a-scar
 Oh, Magdalena
 Nothing like the saint you are
 
-[Chorus:]
+[chorus]
 Oh, Magdalena
 Nothing like the saint you are
 Your love is like a razor

@@ -1,12 +1,13 @@
+[verse]
 We are the sons of Reagan ...Heil!
 Gonna kill us some pagans ...Heil!
 The right's your sacred mission
 Start an inquisition
 Gonna purge the heathen minds!
-
+[chorus]
 We are Reagan Youth! ...Heil! Heil! Heil!
 Reagan Youth ...Sieg Heil!
-
+[verse]
 We are the sons of Reagan ...Heil!
 We are the godforsaken ...Heil!
 The right is our religion
@@ -18,7 +19,7 @@ We are the unawakened ...Heil!
 Want another war?
 Forward to El Salvador!
 Gonna kill some communists!
-
+[chorus]
 We are Reagan Youth! ...Heil! Heil! Heil!
 Reagan Youth! ...Sieg Heil!
 

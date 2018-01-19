@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 Procession moves on, the shouting is over
 Praise to the glory of loved ones now gone
 Talking aloud as they sit round their tables
@@ -8,7 +8,7 @@ Watching them pass like clouds in the sky
 Try to cry out in the heat of the moment
 Possessed by a fury that burns from inside
 
-[Verse 2]
+[verse]
 Cry like a child, though these years make me older
 With children my time is so wastefully spent
 A burden to keep, though their inner communion

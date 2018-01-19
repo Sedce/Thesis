@@ -1,15 +1,15 @@
-[Verse 1]
+[verse]
 When routine bites hard
 And ambitions are low
 And resentment rides high
 But emotions won't grow
 And we're changing our ways, taking different roads
 
-[Chorus]
+[chorus]
 Then love, love will tear us apart again
 Love, love will tear us apart again
 
-[Verse 2]
+[verse]
 Why is the bedroom so cold?
 You've turned away on your side
 Is my timing that flawed?
@@ -17,11 +17,11 @@ Our respect runs so dry
 Yet there's still this appeal
 That we've kept through our lives
 
-[Chorus]
+[chorus]
 But love, love will tear us apart again
 Love, love will tear us apart again
 
-[Verse 3]
+[verse]
 You cry out in your sleep
 All my failings exposed
 And there's a taste in my mouth
@@ -30,7 +30,7 @@ Just that something so good
 Just can't function no more
  
 
-[Chorus ]
+[chorus]
 Then love, love will tear us apart again
 Love, love will tear us apart again
 Then love, love will tear it apart again

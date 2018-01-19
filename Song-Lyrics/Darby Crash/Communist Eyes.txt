@@ -1,3 +1,4 @@
+[verse]
 I'm looking through
 Communist eyes
 I'm seeing planes in bloodshot skies
@@ -5,22 +6,22 @@ I see the flag of a working people
 Who conceal the lies in the stars
 And sickle
 It's a double edge
-
+[chorus]
 Communist eyes-c'mon inside
 I can't ever find the way out
 Communist eyes-lost inside
 I never get a day out
-
+[verse]
 I'm looking through Communist eyes
 All I see is an old man's alibi
 There's a world outside
 But I'm unaware
 I open my books but the pages stare
 It's a double edge
-
+[chorus]
 Communist eyes-all so blind
 I can't even play the game now
-
+[outro]
 I'm living through Communist times
 I wave my flag and hold me head high
 I can feel the glory of my

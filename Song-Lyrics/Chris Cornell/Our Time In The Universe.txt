@@ -1,3 +1,4 @@
+[intro]
 Waiting
 Upon the dunes of earth and sand
 In the morning
@@ -6,7 +7,7 @@ Swallow
 The fears of empty promise hearts
 And remember
 We only just got to the stars
-
+[verse]
 Save the dying arms of midnight
 For the patience and or lapse of light
 Cuz it’s our time in the universe
@@ -14,7 +15,7 @@ Well I don’t mind
 If we're blessed or cursed
 And it’s our time in the universe
 Yours and mine
-
+[chorus]
 Breathing
 Beneath miles of earth and sky
 And in sunlight
@@ -23,7 +24,7 @@ So don’t worry
 On what tomorrow holds for you
 I’ll be waiting
 At the end of every road you choose
-
+[verse]
 Save the dying arms of midnight
 Cuz it’s our time in the universe
 Well I don’t mind
@@ -37,7 +38,7 @@ See it unfold no matter the need
 See it fold up whatever happens to be
 It’s what it will be
 It’s what it will be
-
+[outro]
 Cuz it’s our time in the universe
 Well I don’t mind
 If we're blessed or cursed

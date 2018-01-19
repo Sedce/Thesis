@@ -1,4 +1,5 @@
-With off season blooms (1)
+[verse]
+With off season blooms
 One season flows endlessly into the next
 The joke plays out again
 Just like it did on that day
@@ -17,12 +18,12 @@ To gain wisdom
 A fleeting moment is never enough
 It was but an instant of clarity
 That flashed by me yesterday
-
+[chorus]
 Just like on a Merry-go-round
 I forget my pains and continue around
 Unable to find my destination
 Still I go on
-
+[verse]
 Supposing a ripe fruit
 Were to wither and fall unseen
 Its sweetly intoxicating fragrance
@@ -39,7 +40,7 @@ It spins and spins
 And even the tears and the rain
 Twinkling from fragments of distant memories
 Will be swallowed into the sands (2)
-
+[outr]
 Hurry, go round even though you may shatter
 Because it's a fleeting instant before you fall
 Without waiting for the right moment

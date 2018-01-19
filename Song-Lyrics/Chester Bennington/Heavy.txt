@@ -1,4 +1,4 @@
-[Verse 1: Chester Bennington]
+[verse]
 I don’t like my mind right now
 Stacking up problems that are so unnecessary
 Wish that I could slow things down
@@ -8,7 +8,7 @@ Thinking everything's about me
 Yeah, I drive myself crazy
 'Cause I can’t escape the gravity
 
-[Chorus: Chester Bennington & Kiiara]
+[chorus]
 I'm holding on
 Why is everything so heavy?
 Holding on
@@ -18,7 +18,7 @@ If I just let go, I'd be set free
 Holding on
 Why is everything so heavy?
 
-[Verse 2: Kiiara]
+[verse]
 You say that I'm paranoid
 But I’m pretty sure the world is out to get me
 It’s not like I make the choice
@@ -29,7 +29,7 @@ I know I'm not the center of the universe
 But you keep spinning 'round me just the same
  
 
-[Chorus: Kiiara]
+[chorus]
 I'm holding on
 Why is everything so heavy?
 Holding on
@@ -39,7 +39,7 @@ If I just let go, I'd be set free
 Holding on
 Why is everything so heavy?
 
-[Bridge: Chester Bennington & Kiiara]
+[bridge]
 I know I'm not the center of the universe
 But you keep spinning 'round me just the same
 I know I'm not the center of the universe
@@ -47,7 +47,7 @@ But you keep spinning 'round me just the same
 And I drive myself crazy
 Thinking everything’s about me
 
-[Chorus: Chester Bennington & Kiiara]
+[chorus]
 Holding on
 Why is everything so heavy?
 Holding on

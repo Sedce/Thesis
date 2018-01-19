@@ -1,3 +1,4 @@
+[verse]
 It's Sunday and the streets aren't clear
 The traffic's screaming
 But we can't hear
@@ -11,7 +12,7 @@ Driving us mad, oh
 Driving us mad
 We must bleed, we must bleed
 We must bleed, we must bleed
-
+[chorus]
 The crash as the bottle breaks
 Flashes it will through my veins
 The pain, the colors
@@ -25,7 +26,7 @@ Making me sane
 We must bleed, we must bleed
 We must bleed, we must bleed
  
-
+[outro]
 I'm not one I'm two, I'm not one
 I'm two, I'm not one I'm two
 I want out now, I want out now

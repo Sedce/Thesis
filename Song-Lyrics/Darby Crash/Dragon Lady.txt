@@ -1,3 +1,4 @@
+[verse]
 You walk to the temple on the boulevard
 You know the way in cause you're
 The son of God
@@ -5,18 +6,23 @@ She opens the door with
 A sardonic glance
 You drop to the floor making your plans
 
-(Chorus:)
+[chorus]
 It's a real cool parody
 That's my dragon lady
 In a low society with no variety
 She lives a tongue on cheek dream
-There's soemthing in her eyes
+[verse]
+There's something in her eyes
 That nature denied
 She's a whirlwind creature of cultural ties
 A preacher of schemes and self denial
 She talks up a storm with news and belial
-
-(Chorus)
+[chorus]
+It's a real cool parody
+That's my dragon lady
+In a low society with no variety
+She lives a tongue on cheek dream
+[verse]
 To live in Braham tragedy
 Driven it seems by fantasies
 A life like this is sad to see
@@ -25,8 +31,9 @@ The clock on the matle hands stop crossed
 The rug on the floors a resting place for the dust
 The talk of the town yet she's never been seen
 A loving relation with a well trained machine
- 
-
-(Chorus)
-
+[chorus]
+It's a real cool parody
+That's my dragon lady
+In a low society with no variety
+She lives a tongue on cheek dream
  

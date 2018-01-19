@@ -1,11 +1,11 @@
-[Hook]
+[hook]
 Get away from me
 Get away from me babe
 Get away from
 Get away from
 Get away from me
 
-[Verse 1: Johnny J]
+[verse]
 While I was rippin' up shows
 You were lovin' another man and everybody else knows
 Doing it in public, not being low key
@@ -32,21 +32,21 @@ But that ain't nothin,' the last thing is the best
 He took off his jersey and had your name on his chest
  
 
-[Hook]
+[hook]
 Get away from me
 Get away from me babe
 Get away from
 Get away from
 Get away from me
 
-[Bridge]
+[bridge]
 Your funky ass don't understand
 Girl I ain't ready
 I don't want to love no more
 Too much trouble dealing with your kind
 Pack your things and just walk out that door
 
-[Verse 2: Johnny J]
+[verse]
 Remember way back, you told me you'd never say that
 I never really wanted to be involved with this way back
 Just love me and relieve me, tickle me and tease me
@@ -73,7 +73,7 @@ So baby move on before you take my grip, before I make the hit
 And show you no love and straight trip
  
 
-[Hook]
+[hook]
 Get away from me
 Get away from me babe
 Get away from

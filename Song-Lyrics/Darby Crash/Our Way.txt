@@ -1,13 +1,14 @@
+[intro]
 Clara would be proud to know us
 We've taken it to the end
 Where the grey turns to black
 And the white just begins-
-
+[bridge]
 We live everyday on the water
 The night just kills the pain
 From the suffering that was
 We are no stronger-we are dust-
-
+[chorus]
 Down in the crowd we're down
 On our knees
 Wanna get out but
@@ -16,7 +17,7 @@ We're the red-eyed legends
 Of the night before
 We're the dead mind babies
 Of the T.V. war-
-
+[outro]
 Living in a rectory of sin
 Against the currents we all swim
 Cageless wonders of sometime when

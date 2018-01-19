@@ -1,3 +1,4 @@
+[verse]
 Do you remember the time
 I remember the time
 Like a boyhood nursery rhyme
@@ -9,14 +10,14 @@ Well I remember the way
 Like a night turned into day
 Well I dressed you up
 And your mother threw you back down
-
+[chorus]
 And when I feel I can't go on
 I turn the radio on
 It's a good thing
 It's a good thing
 It's a good, good, good
 Very good thing that you're gone
-
+[verse]
 Do you remember the voice
 Yeah I remember the voice
 And it gave me no choice
@@ -29,7 +30,7 @@ Like a high school nursery rhyme
 And I pushed you in
 And I pushed you down
  
-
+[chorus]
 And when I feel I can't go on
 I turn the radio on
 It's a good thing

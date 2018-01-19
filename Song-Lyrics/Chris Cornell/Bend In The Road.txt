@@ -1,3 +1,4 @@
+[intro]
 In a bend in the road
 I’m too lost and tired
 To see where I’m going
@@ -8,7 +9,7 @@ Don’t know when I’ll arrive
 So put a bend in the road
 I’m growing tired
 Of straight lines
-
+[verse]
 I set off for the shore
 And I finally slipped away
 From the ones i adored
@@ -17,7 +18,7 @@ And I rode down the road
 Just to watch it go by
 And when and where is love?
 Maybe nowhere tonight
-
+[chorus]
 Everyone needs a touch
 Or a shoulder for crying
 The say love is a crutch
@@ -26,11 +27,11 @@ And that’s all that she needed
 But I could not supply
 When a bend in the road
 Put it out of my mind
-
+[bridge]
 There was a strange little girl
 Who was everything I ever dreamed
 I could love or be loved by
-
+[outro]
 So put a bridge
 Or a hill
 Or a forest of pines

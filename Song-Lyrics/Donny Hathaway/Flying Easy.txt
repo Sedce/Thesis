@@ -1,7 +1,8 @@
+[verse]
 We're flying high on a velvet sky, 
 With the wind on our wings
 Climbing easily on the breeze
-
+[chorus]
 We're flying easy and we do just what we please
 we drink the breezes as we drink wine,and the nectar is sweet
 Now the feeling we have is fun
@@ -16,7 +17,7 @@ And it's heavenly hues
 And we don't have a thing to lose
 
 We're flying easy and we do just what we choose
-
+[verse]
 The trip is smooth and we gently glide
 We ride the rainbow and we see to a tee
 How happy it can be to be free
@@ -24,7 +25,7 @@ How happy it can be to be free
 We float and there is no thought of time
 Cause were singing of love
 And the pleasure is so devine
-
+[outro]
 We're flying easy not a worry on our mind
 We're flying easy not a worry on our mind
 We're flying easy on a breeze

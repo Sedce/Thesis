@@ -1,9 +1,10 @@
+[intro]
 You know you want a better man
 You know you want a better man
 You know you want a better man
 You know you want a better man
 
-[Verse 1: Johnny J]
+[verse]
 I was just chilling, feeling kind of bored
 Went to get some drink so I crept to the store
 Sipping, cranked up, leaning in my truck
@@ -35,12 +36,12 @@ And now she won't switch (Why is that?)
 Cause I'm a better man
  
 
-[Hook]
+[hook]
 I'm a better man, what can a nigga do
 To let you know that I just want you to know
 Let me come inside and show you how I feel when you love me
 
-[Verse 2: Johnny J]
+[verse]
 Check it, roses are red and violets are blue
 Me and you we go together, like two and two, me fucking you
 I'm the J to the O to the H-N-Y
@@ -70,9 +71,11 @@ I know your thinking to yourself, it wasn't part of the plan
 But that's how it's done by a better man
  
 
-[Hook]
-
-
+[hook]
+I'm a better man, what can a nigga do
+To let you know that I just want you to know
+Let me come inside and show you how I feel when you love me
+[outro]
 You know you want a better man
 You know you want a better man
 You know you want a better man

@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 This is a crisis I knew had to come
 Destroying the balance I'd kept
 Doubting, unsettling and turning around
@@ -8,7 +8,7 @@ I was foolish to ask for so much
 Without the protection and infancy's guard
 It all falls apart at first touch
 
-[Verse 2]
+[verse]
 Watching the reel as it comes to a close
 Brutally taking it's time
 People who change for no reason at all
@@ -18,7 +18,7 @@ Disturbing and purging my mind
 Back out of my duties, when all's said and done
 I know that I'll lose every time
 
-[Verse 3]
+[verse]
 Moving along in our God given ways
 Safety is sat by the fire
 Sanctuary from these feverish smiles

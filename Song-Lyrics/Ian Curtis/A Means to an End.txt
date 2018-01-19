@@ -1,28 +1,28 @@
-[Verse 1]
+[verse]
 A legacy so far removed
 One day will be improved
 Eternal rights we left behind
 We were the better kind
 Two the same, set free too
 
-[Chorus]
+[chorus]
 I always looked to you
 I always looked to you
 I always looked to you
 
-[Verse 2]
+[verse]
 We fought for good, stood side by side
 Our friendship never died
 On stranger waves, the lows and highs
 Our vision touched the sky
 Immortalists with points to prove
 
-[Chorus]
+[chorus]
 I put my trust in you
 I put my trust in you
 I put my trust in you
 
-[Verse 3]
+[verse]
 A house somewhere on foreign soil
 Where ageless lovers call
 Is this your goal, your final needs
@@ -30,7 +30,7 @@ Where dogs and vultures eat
 Committed still I turn to go
  
 
-[Chorus]
+[chorus]
 I put my trust in you
 I put my trust in you
 I put my trust in you

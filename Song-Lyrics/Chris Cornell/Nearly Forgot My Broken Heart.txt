@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 Every time I stare into the sun
 Trying to find a reason to go on
 All I ever get is burned and blind
@@ -9,14 +9,14 @@ Pulled me like an apple, red and ripe
 Wasn't very long, you took a bite
 And did me wrong, and it serves me right
 
-[Chorus]
+[chorus]
 And I nearly forgot my broken heart
 It's taken me miles away
 From the memory of how it broke apart
 Here we go 'round, again
 Again
 
-[Verse 2]
+[verse]
 Every little key unlocks the door
 Every little secret has a lie
 Try to take a picture of the sun
@@ -27,13 +27,13 @@ Makes a little cut where blood pours out
 Every little drop of blood, a kiss
 That I won't miss, not for anything
 
-[Chorus]
+[chorus]
 And I nearly forgot my broken heart
 It's taken me miles away
 From the memory of how it broke apart
 Here we go 'round, again
 
-[Bridge]
+[bridge]
 Every single feeling tells me this is leading
 To a heart in broken little pieces
 And you know I need this
@@ -47,7 +47,7 @@ To a heart in broken little pieces
 And you know I need this
 Like a hole...
 
-[Chorus]
+[chorus]
 And I nearly forgot my broken heart
 It's taken me miles away
 From the memory of how it broke apart
@@ -57,7 +57,7 @@ It's taken me miles away
 From the memory of how it broke apart
 Here we go 'round, again
 
-[Outro]
+[outro]
 Here we go 'round, again
 Here we go 'round, again
 Here we go 'round, again
