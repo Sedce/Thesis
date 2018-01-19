@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 Use just once and destroy
 Invasion of our piracy
 Afterbirth of a nation
@@ -8,12 +8,12 @@ I did not want what I have got
 A blanket acne'ed with cigarette burns
 Speak at once while taking turns
 
-[Chorus]
+[chorus]
 What is wrong with me
 What is wrong with me
 What is wrong with me
 
-[Verse 2]
+[verse]
 Nothing to do with what you think
 If you ever think at all
 Bi-polar opposites attract
@@ -23,32 +23,30 @@ Did not want what I have got
 A blanket acne'ed with cigarette burns
 Second-rate third degree burns
 
-[Chorus]
+[chorus]
 What is what I need?
 What is wrong with me?
 What do I think I think?
  
 
-[Bridge]
+[bridge]
 Hate, hate your enemies
 Save, save your friends
 Find, find your place
 Speak, speak the truth
 
-[Chorus]
+[chorus]
 What is what I need?
 What is wrong with me?
 What do I think I think?
 
-[Guitar Solo]
-
-[Verse 3]
+[verse]
 Use just once and destroy
 Invasion of our piracy
 Afterbirth of a nation
 Starve without your skeleton key
 
-[Chorus]
+[chorus]
 What is wrong with me?
 What is what I need?
 What is what I need?
