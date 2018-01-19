@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 Teenage angst has paid off well
 Now I'm bored and old
 Self-appointed judges judge
@@ -8,14 +8,14 @@ A witch like we have thought
 A downpayment on another
 One at Salem's lot
 
-[Chorus]
+[chorus]
 Serve the servants, oh no
 Serve the servants, oh no
 Serve the servants, oh no
 Serve the servants
 That legendary divorce is such a bore
 
-[Verse 2]
+[verse]
 As my bones grew they did hurt
 They hurt really bad
 I tried hard to have a father
@@ -26,21 +26,16 @@ There is nothing I could say
 That I haven't thought before
  
 
-[Chorus]
+[chorus]
 Serve the servants, oh no
 Serve the servants, oh no
 Serve the servants, oh no
 Serve the servants
 That legendary divorce is such a bore
 
-[Guitar Solo]
-
-[Chorus]
+[chorus]
 Serve the servants, oh no
 Serve the servants, oh no
 Serve the servants, oh no
 Serve the servants
 That legendary divorce is such a bore
-
-   16  Embed
-MORE ON GENIUS
