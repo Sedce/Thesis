@@ -1,15 +1,13 @@
-[Verse]
+[verse]
 You can say the sun is shining if you really want to
 I can see the moon and it seems so clear
 
-[Chorus]
+[chorus]
 You can take the road that takes you to the stars now
 I can take a road that'll see me through
 I can take a road that'll see me through
 
-[Instrumental]
-
-[Chorus]
+[chorus]
 You can take the road that takes you to the stars now
 I can take a road that'll see me through
 I can take a road that'll see me through
