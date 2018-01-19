@@ -1,3 +1,4 @@
+[verse]
 during the middle of the dark night i'm just standing.
 i can't even see in front of me
 to where i should go, where would it be
@@ -7,13 +8,13 @@ as i float around like the floating plants (another translation is "mulch"; basi
 and when i touch some peaceful lake shore
 i will probably rot with the water.
 
-
+[chorus]
 stand up, stand up
 we're going to try again once more
 stand up, stand up
 like spring's new sprouts
 
-
+[verse]
 between the endless words
 me and you are getting weary
 with another kind of action, with another kind of word
@@ -21,9 +22,9 @@ we console ourselves
 the more acknowledgement, the novelty
 gets further and further away
 just going back and forth like a pendulum
-
+[bridge]
 it will probably falter (this verb can also mean "shake") every day
-
+[chorus]
 stand up, stand up
 we're going to try once more
 stand up, stand up
@@ -37,7 +38,7 @@ as beautiful as the flower is, it wilts all the more faster
 even the dew drops that used to be clear when the sunlight shone on it
 it dries up in a moment
 
-
+[choris]
 stand up, stand up
 we're going to try once more
 stand up, stand up
