@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 What else should I be?
 All apologies
 What else could I say?
@@ -8,13 +8,13 @@ I don't have the right
 What else should I be?
 All apologies
 
-[Chorus]
+[chorus]
 In the sun, in the sun
 I feel as one
 In the sun, in the sun
 Married, buried
 
-[Verse 2]
+[verse]
 I wish I was like you
 Easily amused
 Find my nest of salt
@@ -25,7 +25,7 @@ Sunburn, freezer burn
 Choking on the ashes of her enemy
  
 
-[Chorus]
+[chorus]
 In the sun, in the sun
 I feel as one
 In the sun, in the sun
@@ -33,7 +33,7 @@ Married, buried
 Married, buried
 Yeah, yeah, yeah ,yeah
 
-[Outro: Kurt Cobain & Dave Grohl]
+[outro
 All in all is all we are
 All in all is all we are
 All in all is all we are
@@ -57,18 +57,3 @@ All in all is all we are
 All in all is all we are
 All in all is all we are
  
-
-[Ad Libs in MTV Unplugged in New York Version]
-[Kurt Cobain]
-Thank you
-[Kurt Cobain]
-This was written by my favorite performer. Our favorite perfomer, isn't it? All of ours? You like him the best?
-
-[Krist Novoselic]
-Oh and here's a donation basket for one supply of Leadbelly's guitar
-[Kurt Cobain]
-Oh yeah, this guy representing the Leadbelly's estate wants to sell me Leadbelly's guitar for $500,000
-[Krist Novoselic]
-Passing a basket
-[Kurt Cobain]
-Yeah, I even asked David Geffen personally if he'd buy it for me. He wouldn't do it
