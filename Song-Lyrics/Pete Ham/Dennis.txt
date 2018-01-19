@@ -1,3 +1,4 @@
+[verse]
 Deeper waters flowed
 Recently it showed
 Tryin' to cover your head
@@ -24,7 +25,6 @@ I couldn't start to tell you how
 We couldn't start to tell you how
 There's just no way to say how much we love you
  
-
 You, little Dennis, you
 You're full of new surprise
 Love you
@@ -46,7 +46,7 @@ You, little Dennis with the rascal in your eyes
 Will you pick up your toys?
 Will you be a good boy?
 Will you please, please?
-
+[chorus]
 There's a way
 There's a way
 If you'll play
@@ -63,7 +63,7 @@ If you'll stay
 There's a way through
 There's a way to take away blue
 Take away blue
-
+[outro]
 There's a way
 There's a way
 If you'll play
