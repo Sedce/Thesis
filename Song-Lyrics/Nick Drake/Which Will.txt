@@ -1,4 +1,4 @@
-[Verse 1]
+[verse]
 Which will you go for?
 Which will you love?
 Which will you choose from
@@ -8,11 +8,11 @@ Which will you call?
 Which will you take for
 For your one and all?
 
-[Chorus]
+[chorus]
 And tell me now
 Which will you love the best?
 
-[Verse 2]
+[verse]
 Which do you dance for?
 Which makes you shine?
 Which will you choose, now
@@ -22,6 +22,6 @@ Which can it be?
 Which will you take, now
 If you won't take me?
 
-[Chorus]
+[chorus]
 And tell me now
 Which will you love the best?
