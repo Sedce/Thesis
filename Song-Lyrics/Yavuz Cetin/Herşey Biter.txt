@@ -1,12 +1,12 @@
-Living with me makes you feel sick
+[verse]Living with me makes you feel sick
 You say that every day
 You want everything to be brand new like before
 Our tired love doesn't have the strength to stand
 I don't understand what is going on
 But there is no doubt it is over
- 
+ [chorus]
 The day comes when everyone walks their own way
-Everything ends the way they have started
+Everything ends the way they have started[verse]
 You call the days you shared with me
 Wasted time
 You say that it is difficult now
@@ -16,5 +16,5 @@ Our tired love doesn't have the strength to stand
 I don't understand what is going on
 But there is no doubt it is over
  
-The day comes when everyone walks their own way
+[chorus]The day comes when everyone walks their own way
 Everything ends the way they have started

@@ -1,9 +1,9 @@
-http://lyricstranslate.com/en/k%C3%B6le-slave.html-0#ixzz52U4jpvrv
+[verse]
 
 A long time ago
 You entraped me
 There is no else way for me
-You or nothing
+[chorus]You or nothing
 You or nothing
  
 I sometimes looked for a path to me
@@ -12,9 +12,12 @@ It's very difficult to be afraid of losing you
 You or nothing
 You or nothing
  
-I became a slave to your love x4
+I became a slave to your love 
+I became a slave to your love 
+I became a slave to your love 
+I became a slave to your love
  
-What does a man want in his life?
+[verse]What does a man want in his life?
 Some kindness,some passion, that's all
 The only thing you can give me in this life
 "Let's do it,let's do it"

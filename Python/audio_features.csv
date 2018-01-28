@@ -1,0 +1,78 @@
+Artist,Song Title,Tempo,Loudness,Energy,Genre
+Albert Ayler,Music is the Healing force of the Universe,86.478,-7.32,0.736,audio_features
+Antonio Flores,Isla de Palma,118.029,-11.333,0.661,audio_features
+Bob Brozman,The Lonesome Road,76.247,-15.873,0.127,audio_features
+Chris Cornell,Before We Disappear,147.349,-5.635,0.673,audio_features
+Chris Cornell,Bend In The Road,152.007,-5.76,0.58,audio_features
+Chris Cornell,Circling,179.821,-8.071,0.441,audio_features
+Chris Cornell,Dead Wishes,100.026,-5.571,0.716,audio_features
+Chris Cornell,Higher Truth,119.531,-5.426,0.792,audio_features
+Chris Cornell,Josephine,78.023,-7.057,0.379,audio_features
+Chris Cornell,Let Your Eyes Wander,132.804,-10.678,0.294,audio_features
+Chris Cornell,Misery Chain,87.539,-8.73,0.338,audio_features
+Chris Cornell,Nearly Forgot My Broken Heart,119.531,-5.426,0.792,audio_features
+Chris Cornell,Only These Words,106.004,-6.3,0.634,audio_features
+Chris Cornell,Our Time In The Universe,118.01,-6.238,0.865,audio_features
+Chris Cornell,Through The Window,76.901,-6.937,0.479,audio_features
+Chris Cornell,Worried Moon,90.993,-5.754,0.755,audio_features
+Chris Cornell,Wrong Side,125.975,-5.359,0.661,audio_features
+Del Shannon,Runaway,151.573,-7.439,0.535,audio_features
+Donny Hathaway,Come Little Children,121.644,-7.626,0.781,audio_features
+Donny Hathaway,Flying Easy,151.985,-10.708,0.726,audio_features
+Donny Hathaway,I Love You More Than You'll Ever Know,86.239,-15.617,0.219,audio_features
+Donny Hathaway,Lord Help Me,127.897,-7.903,0.523,audio_features
+Donny Hathaway,Love love love,93.777,-8.71,0.636,audio_features
+Donny Hathaway,Magdalena,131.83,-9.523,0.778,audio_features
+Donny Hathaway,Someday We'll All Be Free,77.022,-11.497,0.413,audio_features
+Ephraim Lewis,Drowning in Your Eyes,110.446,-12.625,0.419,audio_features
+Ephraim Lewis,Mortal Seed,86.095,-11.008,0.423,audio_features
+Ephraim Lewis,Sad Song,120.577,-13.414,0.457,audio_features
+Herman Brood,My Way,152.011,-15.722,0.282,audio_features
+Herman Brood,When I Get Home,116.697,-15.936,0.14,audio_features
+Ian Curtis,Atrocity Exhibition,128.076,-9.67,0.719,audio_features
+Ian Curtis,Isolation,75.201,-6.033,0.796,audio_features
+Ian Curtis,Love Will Tear Us Apart,141.981,-5.827,0.67,audio_features
+Ian Curtis,The Eternal,64.564,-16.361,0.217,audio_features
+Keith Emerson,The Endless Enigma Pt. 1,87.602,-11.705,0.374,audio_features
+Kim Jonghyun,Lonely,86.91,-6.183,0.526,audio_features
+Kurt Cobain,All Apologies,112.245,-9.91,0.677,audio_features
+Kurt Cobain,Heart-Shaped Box,101.044,-8.633,0.735,audio_features
+Kurt Cobain,Pennyroyal Tea,122.813,-6.52,0.768,audio_features
+Kurt Cobain,Rape Me,110.048,-15.308,0.321,audio_features
+Kurt Cobain,Serve the Servants,119.565,-5.254,0.825,audio_features
+Mark Linkous,Daddy's Gone,136.646,-6.832,0.728,audio_features
+Mark Linkous,Dark Night Of The Soul,136.646,-6.832,0.728,audio_features
+Mark Linkous,Revenge,90.264,-10.947,0.298,audio_features
+Michael Hutchence,A Straight Line,122.9,-6.001,0.93,audio_features
+Michael Hutchence,All I'm Saying,163.954,-8.358,0.518,audio_features
+Michael Hutchence,Baby It's Alright,95.823,-5.424,0.926,audio_features
+Michael Hutchence,Breathe,74.926,-8.443,0.61,audio_features
+Michael Hutchence,Don't Save Me from Myself,111.998,-6.538,0.896,audio_features
+Michael Hutchence,Fear,114.024,-7.458,0.848,audio_features
+Michael Hutchence,Flesh and Blood,195.894,-9.292,0.5,audio_features
+Michael Hutchence,Get on the Inside,93.935,-5.273,0.906,audio_features
+Michael Hutchence,Let Me Show You,97.99,-7.097,0.851,audio_features
+Michael Hutchence,Possibilities,127.088,-7.211,0.684,audio_features
+Michael Hutchence,Put the Pieces Back Together,94.471,-6.253,0.855,audio_features
+Michael Hutchence,She Flirts for England,177.96,-6.851,0.852,audio_features
+Michael Hutchence,Slide Away,109.879,-9.217,0.608,audio_features
+Nick Drake,From the Morning,109.002,-19.092,0.161,audio_features
+Nick Drake,Parasite,131.391,-16.472,0.204,audio_features
+Nick Drake,Pink Moon,82.321,-15.435,0.26,audio_features
+Nick Drake,Place to Be,83.343,-16.29,0.223,audio_features
+Nick Drake,Road,151.017,-16.119,0.264,audio_features
+Nick Drake,Things Behind the Sun,102.868,-17.421,0.175,audio_features
+Nick Drake,Which Will,95.367,-17.283,0.185,audio_features
+Nicky Thomas,Have a Little Faith,111.859,-9.781,0.468,audio_features
+Nikolas Asimos,Lina,123.181,-10.991,0.298,audio_features
+Phil Ochs,Chords Of Fame,163.652,-5.82,0.664,audio_features
+Phil Ochs,I Ain't Marching Anymore,131.104,-6.517,0.492,audio_features
+Phil Ochs,Tape From California,134.208,-10.705,0.47,audio_features
+Phil Ochs,The Pleasures of the Harbor,199.366,-11.97,0.54,audio_features
+Stone Temple Pilots,Black Heart,125.013,-4.388,0.81,audio_features
+Stone Temple Pilots,Cry cry,122.956,-3.65,0.699,audio_features
+Stone Temple Pilots,Out of time,159.086,-3.331,0.951,audio_features
+Stone Temple Pilots,Same On The Inside,116.634,-3.705,0.923,audio_features
+Stone Temple Pilots,Tomorrow,146.632,-4.337,0.871,audio_features
+Susan Fassbender,Merry-go-round,130.627,-10.002,0.485,audio_features
+Viro the Virus,Heat,90.014,-5.181,0.708,audio_features
