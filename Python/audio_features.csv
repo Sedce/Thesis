@@ -1,6 +1,14 @@
 Artist,Song Title,Tempo,Loudness,Energy,Genre
 Albert Ayler,Music is the Healing force of the Universe,86.478,-7.32,0.736,audio_features
 Antonio Flores,Isla de Palma,118.029,-11.333,0.661,audio_features
+Badfinger,Come On,142.38,-6.832,0.877,audio_features
+Badfinger,Dennis,118.191,-8.446,0.666,audio_features
+Badfinger,Just A Chance,123.517,-9.063,0.752,audio_features
+Badfinger,Know One Knows,119.829,-8.228,0.743,audio_features
+Badfinger,Rock N' Roll Contract,159.335,-9.317,0.841,audio_features
+Badfinger,Three Time Loser,125.466,-8.013,0.897,audio_features
+Badfinger,Too Hung Up On You,100.904,-8.514,0.731,audio_features
+Big Country,Old Country Country,143.531,-13.503,0.375,audio_features
 Bob Brozman,The Lonesome Road,76.247,-15.873,0.127,audio_features
 Chris Cornell,Before We Disappear,147.349,-5.635,0.673,audio_features
 Chris Cornell,Bend In The Road,152.007,-5.76,0.58,audio_features
@@ -47,13 +55,9 @@ Germs,What We Do Is Secret,112.28,-6.508,0.816,audio_features
 Gin Blossoms,"Hey, Jealousy",153.005,-7.42,0.785,audio_features
 Herman Brood,My Way,152.011,-15.722,0.282,audio_features
 Herman Brood,When I Get Home,116.697,-15.936,0.14,audio_features
-Hide,Hurry go round,84.052,-11.755,0.326,audio_features
-Hide,Pink Spider,160.101,-12.285,0.37,audio_features
-Hide,Rocket Dive,120.962,-13.385,0.389,audio_features
-Ian Curtis,Atrocity Exhibition,128.076,-9.67,0.719,audio_features
-Ian Curtis,Isolation,75.201,-6.033,0.796,audio_features
-Ian Curtis,Love Will Tear Us Apart,141.981,-5.827,0.67,audio_features
-Ian Curtis,The Eternal,64.564,-16.361,0.217,audio_features
+hide,Hurry go round,84.052,-11.755,0.326,audio_features
+hide,Pink Spider,160.101,-12.285,0.37,audio_features
+hide,Rocket Dive,120.962,-13.385,0.389,audio_features
 Jonghyun,1000,83.879,-7.803,0.334,audio_features
 Jonghyun,Blinking Game,119.951,-11.714,0.382,audio_features
 Jonghyun,Elevator,103.577,-7.873,0.261,audio_features
@@ -62,11 +66,27 @@ Jonghyun,Just Chill,96.999,-5.48,0.819,audio_features
 Jonghyun,Let me out,127.988,-6.456,0.753,audio_features
 Jonghyun,Lonely,86.91,-6.183,0.526,audio_features
 Jonghyun,Our Season,82.801,-9.414,0.433,audio_features
+Joy Division,A Means to an End,130.549,-7.946,0.786,audio_features
+Joy Division,Atrocity Exhibition,126.435,-7.348,0.767,audio_features
+Joy Division,Colony,137.612,-7.292,0.88,audio_features
+Joy Division,Decades,107.089,-9.206,0.538,audio_features
+Joy Division,Heart and Soul,149.774,-9.817,0.611,audio_features
+Joy Division,Isolation,151.522,-8.12,0.783,audio_features
+Joy Division,Love Will Tear Us Apart,146.83,-8.662,0.902,audio_features
+Joy Division,Passover,127.977,-11.936,0.577,audio_features
+Joy Division,The Eternal,109.574,-14.043,0.474,audio_features
+Joy Division,Twenty Four Hours,131.73,-8.955,0.879,audio_features
 Keith Emerson,"The Endless Enigma Suite, Pt. 1",87.602,-11.705,0.374,audio_features
 Keith Emerson,"The Endless Enigma Suite, Pt. 2",77.233,-10.944,0.298,audio_features
-Mark Linkous,Daddy's Gone,136.646,-6.832,0.728,audio_features
-Mark Linkous,Dark Night Of The Soul,136.646,-6.832,0.728,audio_features
-Mark Linkous,Revenge,90.264,-10.947,0.298,audio_features
+Kingston Wall,Alt-Land-Is,141.718,-6.346,0.873,audio_features
+Kingston Wall,Another Piece of Cake,95.799,-7.154,0.759,audio_features
+Kingston Wall,For All Mankind,135.577,-9.081,0.652,audio_features
+Kingston Wall,"I'm the King, I'm the Sun",123.395,-6.884,0.893,audio_features
+Kingston Wall,Party Goes On,143.419,-5.794,0.948,audio_features
+Kingston Wall,Take You to Sweet Harmony,141.63,-8.204,0.604,audio_features
+Kingston Wall,The Real Thing,121.197,-9.138,0.76,audio_features
+Kingston Wall,Time,80.285,-8.337,0.572,audio_features
+Kingston Wall,Welcome to the Mirrorland,111.384,-13.504,0.24,audio_features
 Material Issue,A Very Good Thing,169.549,-5.887,0.891,audio_features
 Material Issue,Kim the Waitress,130.579,-7.65,0.721,audio_features
 Material Issue,She's Goin' Thru My Head,93.906,-5.736,0.967,audio_features
@@ -102,6 +122,15 @@ Nirvana,Rape Me,111.879,-10.613,0.743,audio_features
 Nirvana,Serve the Servants,119.698,-8.673,0.906,audio_features
 Nirvana,Tourette's,173.396,-10.963,0.913,audio_features
 Nirvana,Very Ape,151.994,-9.389,0.879,audio_features
+Owsley,Be With You,104.947,-3.738,0.912,audio_features
+Owsley,Dirty Bird,186.408,-4.517,0.906,audio_features
+Owsley,Down,184.078,-4.792,0.874,audio_features
+Owsley,Dude,168.019,-3.95,0.872,audio_features
+Owsley,Matriarch,105.78,-7.106,0.553,audio_features
+Owsley,Rise,98.007,-4.479,0.881,audio_features
+Owsley,She's the One,84.198,-4.711,0.815,audio_features
+Owsley,The Hard Way,105.854,-5.962,0.756,audio_features
+Owsley,Undone,182.246,-4.025,0.929,audio_features
 Phil Ochs,Chords Of Fame,163.652,-5.82,0.664,audio_features
 Phil Ochs,I Ain't Marching Anymore,131.104,-6.517,0.492,audio_features
 Phil Ochs,Tape From California,134.208,-10.705,0.47,audio_features
@@ -115,12 +144,30 @@ Reagan Youth,New Aryans,101.34,-15.774,0.695,audio_features
 Reagan Youth,No Class,206.195,-14.174,0.656,audio_features
 Reagan Youth,Reagan Youth,153.588,-15.215,0.545,audio_features
 Reagan Youth,USA,173.206,-5.843,0.945,audio_features
+Sparklehorse,Angel's Harp,136.336,-5.252,0.69,audio_features
+Sparklehorse,Daddy's Gone,136.646,-6.832,0.728,audio_features
+Sparklehorse,Dark Night Of The Soul,146.033,-5.678,0.912,audio_features
+Sparklehorse,Everytime I'm With You,108.03,-8.019,0.522,audio_features
+Sparklehorse,Grim Augury,77.967,-7.308,0.616,audio_features
+Sparklehorse,Insane Lullaby,85.021,-4.786,0.671,audio_features
+Sparklehorse,Jaykub,118.99,-7.077,0.659,audio_features
+Sparklehorse,Just War,98.225,-6.805,0.521,audio_features
+Sparklehorse,Little Girl,146.033,-5.678,0.912,audio_features
+Sparklehorse,Pain,164.067,-4.532,0.978,audio_features
+Sparklehorse,Revenge,142.178,-9.84,0.524,audio_features
+Sparklehorse,Star Eyes (I Can't Catch It),125.963,-4.971,0.546,audio_features
+Sparklehorse,The Man Who Played God,70.493,-5.563,0.634,audio_features
 Stone Temple Pilots,Black Heart,125.013,-4.388,0.81,audio_features
 Stone Temple Pilots,Cry cry,122.956,-3.65,0.699,audio_features
 Stone Temple Pilots,Out of time,159.086,-3.331,0.951,audio_features
 Stone Temple Pilots,Same On The Inside,116.634,-3.705,0.923,audio_features
 Stone Temple Pilots,Tomorrow,146.632,-4.337,0.871,audio_features
 Susan Fassbender,Merry-go-round,130.627,-10.002,0.485,audio_features
+The Whitlams,End of Your World,174.215,-6.88,0.656,audio_features
+The Whitlams,Hollow Log,113.467,-8.82,0.84,audio_features
+The Whitlams,Pass the Flagon,123.3,-6.893,0.733,audio_features
+The Whitlams,Shining,91.321,-6.828,0.869,audio_features
+The Whitlams,You don't even know my name,172.113,-13.099,0.324,audio_features
 Viro the Virus,Heat,90.014,-5.181,0.708,audio_features
 Yavuz Cetin,Köle,139.212,-9.847,0.658,audio_features
 Yavuz Cetin,Oyuncak Dünya,143.529,-11.223,0.3,audio_features
