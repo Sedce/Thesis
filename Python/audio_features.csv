@@ -8,7 +8,7 @@ Badfinger,Know One Knows,119.829,-8.228,0.743,audio_features
 Badfinger,Rock N' Roll Contract,159.335,-9.317,0.841,audio_features
 Badfinger,Three Time Loser,125.466,-8.013,0.897,audio_features
 Badfinger,Too Hung Up On You,100.904,-8.514,0.731,audio_features
-Big Country,Old Country Country,143.531,-13.503,0.375,audio_features
+Billie Holiday,Gloomy Sunday,127.089,-11.273,0.0823,audio_features
 Bob Brozman,The Lonesome Road,76.247,-15.873,0.127,audio_features
 Chris Cornell,Before We Disappear,147.349,-5.635,0.673,audio_features
 Chris Cornell,Bend In The Road,152.007,-5.76,0.58,audio_features
@@ -55,17 +55,14 @@ Germs,What We Do Is Secret,112.28,-6.508,0.816,audio_features
 Gin Blossoms,"Hey, Jealousy",153.005,-7.42,0.785,audio_features
 Herman Brood,My Way,152.011,-15.722,0.282,audio_features
 Herman Brood,When I Get Home,116.697,-15.936,0.14,audio_features
+hide,ever free,129.106,-12.445,0.355,audio_features
 hide,Hurry go round,84.052,-11.755,0.326,audio_features
 hide,Pink Spider,160.101,-12.285,0.37,audio_features
 hide,Rocket Dive,120.962,-13.385,0.389,audio_features
-Jonghyun,1000,83.879,-7.803,0.334,audio_features
-Jonghyun,Blinking Game,119.951,-11.714,0.382,audio_features
-Jonghyun,Elevator,103.577,-7.873,0.261,audio_features
-Jonghyun,Fireplace,128.022,-6.936,0.596,audio_features
-Jonghyun,Just Chill,96.999,-5.48,0.819,audio_features
-Jonghyun,Let me out,127.988,-6.456,0.753,audio_features
-Jonghyun,Lonely,86.91,-6.183,0.526,audio_features
-Jonghyun,Our Season,82.801,-9.414,0.433,audio_features
+Jonghyun,Rewind,118.003,-5.45,0.749,audio_features
+Jonghyun,Sentimental,82.951,-5.25,0.635,audio_features
+Jonghyun,Shinin,115.085,-2.873,0.853,audio_features
+Jonghyun,Take The Dive,105.108,-4.114,0.708,audio_features
 Joy Division,A Means to an End,130.549,-7.946,0.786,audio_features
 Joy Division,Atrocity Exhibition,126.435,-7.348,0.767,audio_features
 Joy Division,Colony,137.612,-7.292,0.88,audio_features
@@ -78,15 +75,19 @@ Joy Division,The Eternal,109.574,-14.043,0.474,audio_features
 Joy Division,Twenty Four Hours,131.73,-8.955,0.879,audio_features
 Keith Emerson,"The Endless Enigma Suite, Pt. 1",87.602,-11.705,0.374,audio_features
 Keith Emerson,"The Endless Enigma Suite, Pt. 2",77.233,-10.944,0.298,audio_features
+Kim Kwang-seok,Get Up(with Common Ground),95.006,-6.378,0.516,audio_features
+Kim Kwang-seok,Where the Wind Rises(with Hareem),107.939,-5.548,0.425,audio_features
 Kingston Wall,Alt-Land-Is,141.718,-6.346,0.873,audio_features
 Kingston Wall,Another Piece of Cake,95.799,-7.154,0.759,audio_features
 Kingston Wall,For All Mankind,135.577,-9.081,0.652,audio_features
 Kingston Wall,"I'm the King, I'm the Sun",123.395,-6.884,0.893,audio_features
 Kingston Wall,Party Goes On,143.419,-5.794,0.948,audio_features
 Kingston Wall,Take You to Sweet Harmony,141.63,-8.204,0.604,audio_features
-Kingston Wall,The Real Thing,121.197,-9.138,0.76,audio_features
-Kingston Wall,Time,80.285,-8.337,0.572,audio_features
+Kingston Wall,The Real Thing,122.994,-10.419,0.397,audio_features
+Kingston Wall,Time,78.783,-6.035,0.927,audio_features
 Kingston Wall,Welcome to the Mirrorland,111.384,-13.504,0.24,audio_features
+Linkin Park,Halfway Right,134.028,-7.155,0.626,audio_features
+Linkin Park,Heavy,149.982,-6.098,0.671,audio_features
 Material Issue,A Very Good Thing,169.549,-5.887,0.891,audio_features
 Material Issue,Kim the Waitress,130.579,-7.65,0.721,audio_features
 Material Issue,She's Goin' Thru My Head,93.906,-5.736,0.967,audio_features
@@ -110,7 +111,7 @@ Nick Drake,Place to Be,83.343,-16.29,0.223,audio_features
 Nick Drake,Road,151.017,-16.119,0.264,audio_features
 Nick Drake,Things Behind the Sun,102.868,-17.421,0.175,audio_features
 Nick Drake,Which Will,95.367,-17.283,0.185,audio_features
-Nicky Thomas,Have a Little Faith,113.088,-9.7,0.503,audio_features
+Nicky Thomas,Have a Little Faith,111.859,-9.781,0.468,audio_features
 Nikolas Asimos,Lina,123.181,-10.991,0.298,audio_features
 Nirvana,All Apologies,113.169,-12.109,0.621,audio_features
 Nirvana,Dumb,113.623,-13.585,0.394,audio_features
@@ -163,6 +164,13 @@ Stone Temple Pilots,Out of time,159.086,-3.331,0.951,audio_features
 Stone Temple Pilots,Same On The Inside,116.634,-3.705,0.923,audio_features
 Stone Temple Pilots,Tomorrow,146.632,-4.337,0.871,audio_features
 Susan Fassbender,Merry-go-round,130.627,-10.002,0.485,audio_features
+The Raphaels,Old Country Country,158.567,-5.024,0.757,audio_features
+The Raphaels,Private Battlefield,95.245,-7.175,0.387,audio_features
+The Raphaels,Shattered Cross,124.615,-8.762,0.625,audio_features
+The Raphaels,Simple Man,131.42,-6.244,0.801,audio_features
+The Raphaels,Supernatural,168.932,-7.68,0.697,audio_features
+The Raphaels,Too Many Ghosts,143.896,-5.944,0.784,audio_features
+The Raphaels,Toujour Aimez,116.558,-10.148,0.358,audio_features
 The Whitlams,End of Your World,174.215,-6.88,0.656,audio_features
 The Whitlams,Hollow Log,113.467,-8.82,0.84,audio_features
 The Whitlams,Pass the Flagon,123.3,-6.893,0.733,audio_features
