@@ -1,8 +1,9 @@
+[intro]
 Where are they going? Why are they so busy?
 Feels like their souls have been sucked out
 Their heads are down low
 On their phones (eyes fixed)
-
+[chorus]
 Hey look up, it’s dangerous
 All those people gathering around the bus station
 It’s so gross, like a frowning cat’s face
@@ -21,11 +22,11 @@ Whoa doo loo doo doo doo
 Doo loo doo doo doo take me with you
 Whoa doo loo doo doo doo
 Doo loo doo doo doo take me with you
-
+[bridge]
 That lady over there is so busy
 She’s not gonna look at me
 The moment her eyes turn (hey hey)
-
+[chorus]
 Hey look up, it’s dangerous
 All those people gathering around the bus station
 It’s so gross, like a frowning cat’s face
@@ -50,7 +51,7 @@ whoa (whoa) look at him (look at him)
 Where’s he going (where’s he going) take me with you
 whoa (whoa) look at him (look at him)
 Where’re you going (where’re you going) take me with you
-
+[outro]
 Whoa doo loo doo doo doo
 Doo loo doo doo doo take me with you
 Whoa doo loo doo doo doo

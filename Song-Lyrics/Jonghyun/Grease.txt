@@ -1,3 +1,4 @@
+[verse]
 Black grease
 It won’t come off, it’s like you
 It’s on your white shirt
@@ -7,12 +8,12 @@ Yea it’s like you
 Disgustingly spread out
 Meeting eyes with you was my fault
 It’s my fault that I didn’t know about myself
-
+[bridge]
 i want to clean it up (clean it up)
 I want to fix it up (fix it up)
 Let’s say this never happened
 Let’s say this never happened
-
+[chorus]
 Throwing away my memories
 Throwing away everything you gave me
 Because it’s already been long since it lost meaning
@@ -22,7 +23,7 @@ Throwing away my memories
 Throwing away everything you gave me
 Because it’s already been long since it lost meaning
 Now go away, cuz I wanna erase you, go away
-
+[verse]
 I did nothing wrong
 If I had to choose, it’s that I got to know you
 I was crazy, I tried to make things right
@@ -34,7 +35,7 @@ I wish I could beg the kids who know you
 So I don’t have to know you anymore
 Crazy, crazy, I was crazy
 I want to turn it all back
-
+[chorus]
 i want to clean it up (clean it up)
 I want to fix it up (fix it up)
 Let’s say this never happened
@@ -49,18 +50,18 @@ Throwing away my memories
 Throwing away everything you gave me
 Because it’s already been long since it lost meaning
 Now go away, cuz I wanna erase you, go away
-
+[bridge]
 I know I know I know
 I know I know I know
 I don’t need the memories you gave me
 It’s been a while since even the attachment went away
 Gotta be alone better be alone
-
+[chorus]
 Throwing away my memories
 Throwing away everything you gave me
 Because it’s already been long since it lost meaning
 Now go away, cuz I wanna erase you, go away
-
+[outro]
 Throwing away my memories
 Throwing away everything you gave me
 Because it’s already been long since it lost meaning

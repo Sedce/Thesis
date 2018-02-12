@@ -1,9 +1,10 @@
-[intr]Welcome to the mirrorland where we all
+[intro]Welcome to the mirrorland where we all
 Understand the time is now and around is just
 Memories and premises
 So live now or to live outside the present time
 Present, that's nice, when you give you allways get
 Back but when you take...?
+[chorus]
 The mirrorland
 It's got lessons and lessons and prizes in
 Between
@@ -12,9 +13,15 @@ It's got history and it's got his story
 In the mirrorland
 As we pile now the things we used to feel before
 We get close to his presence who tells where to
+
+[bridge]
 Go it's that first sound you get before you think
 About it at all
-Afet that comes the one(*) that's reduced and it's
+Afet that comes the one that's reduced and it's
+
 Gone
+
+[outro]
 Could it be so that all the answers are there
+
 All it takes is the peace to hear what it says

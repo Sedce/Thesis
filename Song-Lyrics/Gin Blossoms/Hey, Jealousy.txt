@@ -8,7 +8,7 @@ You were the best I'd ever had
 If I hadn't blown the whole thing years ago
 I might not be alone
 
-[Chorus:]
+[chorus]
 Tomorrow we can drive around this town
 And let the cops chase us around
 The past is gone but something might be found
@@ -26,7 +26,7 @@ Feeling like I matter too
 If I hadn't blown the whole thing years ago
 I might be here with you
 
-[Chorus ]
+[chorus]
 Tomorrow we can drive around this town
 And let the cops chase us around
 The past is gone but something might be found
@@ -45,7 +45,7 @@ You were the best I'd ever had
 If I hadn't blown the whole thing years ago
 I might not be alone
 
-[Chorus]
+[chorus]
 Tomorrow we can drive around this town
 And let the cops chase us around
 The past is gone but something might be found

@@ -1,3 +1,4 @@
+[chorus]
 What would it feel like?
 If I met eyes with you?
 What would it feel like?
@@ -5,7 +6,7 @@ If I held hands with you?
 What would it feel like?
 If I kissed your lips?
 I’m so curious (curious curious yeah yeah)
-
+[verse]
 I’m looking at your eyes, they shine so black
 Don’t move, I wanna place you completely in my head
 I don’t wanna be bland
@@ -21,10 +22,10 @@ When I meet eyes with you
 When your hands brush against mine
 I get sad because I wish for one more second
 Put your skin on me, don’t take it away
-
+[bridge]
 I’m curious about all of you
 I guess you’re not baby, am I the only one?
-
+[chorus]
 What would it feel like?
 If I met eyes with you?
 What would it feel like?
@@ -32,7 +33,7 @@ If I held hands with you?
 What would it feel like?
 If I kissed your lips?
 I’m so curious (curious curious yeah yeah)
-
+[verse]
 Don’t get away from me, don’t go far away
 I’m like a puppy left alone
 I’m trembling, I don’t know what to do
@@ -47,10 +48,10 @@ When I meet eyes with you
 When your hands brush against mine
 I get sad because I wish for one more second
 Put your skin on me, don’t take it away
-
+[bridge]
 I’m curious about all of you
 I guess you’re not baby, am I the only one?
-
+[chorus]
 What would it feel like?
 If I met eyes with you?
 What would it feel like?
@@ -58,7 +59,7 @@ If I held hands with you?
 What would it feel like?
 If I kissed your lips?
 I’m so curious (curious curious yeah yeah)
-
+[verse]
 I’m sure it’s awkward, I feel it too (still)
 Don’t back away, don’t run away
 Put your feet on my feet
@@ -66,7 +67,7 @@ Your hands on my waist, put them there
 (Woo woo) stay chill baby
 Relax lady
 Feel this vibe, trust me (babe)
-
+[outro]
 What would it feel like?
 If I met eyes with you?
 What would it feel like?

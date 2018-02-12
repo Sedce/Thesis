@@ -1,3 +1,4 @@
+[verse]
 Another bridge I have burned
 A lesson I learned
 One more mistake to my cause
@@ -6,7 +7,7 @@ In a game
 So I was up for awhile
 Livin' in style
 Feelin' high on the hog
-
+[bridge]
 I was down
 
 [chorus]
@@ -15,12 +16,12 @@ His other soul
 How barely a young man
 Can sink so low
 And I don't know... don't care at all
-
+[verse]
 I had a similar dream
 of my dreams while
 I thought I had wandered a mile
 I was wrong
-
+[outro]
 Now I'm on the way up
 When you reach the top
 no way to go

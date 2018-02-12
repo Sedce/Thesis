@@ -1,3 +1,4 @@
+[intro]
 The sound of my breath had stopped without knowing
 That痴 when I discovered you
 All of the coincidences fell into your ocean in the end
@@ -6,14 +7,14 @@ This small bathtub feels deep today
 Singing na na na na na
 I知 thinking of you
 Then I知 diving
-
+[chorus]
 take the dive
 Take the dive (woo woo woo)
 Take the dive (woo)
-
+[bridge]
 I知 dreaming with my eyes open
 Breathing in your air
-
+[verse]
 When my small world met yours
 Then the waves arose
 Just one laugh
@@ -23,25 +24,27 @@ The strange tide feels deeper today
 Singing na na na na na
 I hesitated for a second
 Then I知 diving
-
+[chorus]
 Take the dive
 Take the dive (woo woo woo)
 Take the dive (woo)
-
+[bridge]
 I知 dreaming with my eyes open
 Breathing in your air
-
+[chorus]
 Would you take the dive
 Would you take the dive
 Would you take the dive
-
+[verse]
 Let me loose in your ocean
 So I can only be filled with you
 I wanna know you
 From your surface to the other side of the ocean, oh I
+[chorus]
 Take the dive
 Take the dive (woo woo woo)
 Take the dive (woo)
+[outro]
 I知 dreaming with my eyes open
 (oh I will take the dive)
 Breathing in your air

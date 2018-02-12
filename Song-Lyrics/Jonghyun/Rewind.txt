@@ -1,6 +1,7 @@
+[intro]
 Uh rewind rewind
 Uh rewind
-
+[verse]
 Whatever I do, time passes
 I’m tired, let me get a glass of water
 Whatever I do, time passes
@@ -9,19 +10,19 @@ Whatever I do, time passes
 It’s wet, I should clean it up
 Whatever I do, my eyelids are heavy
 I’ll be alert so you focus too
-
+[chorus]
 Rewind rewind rewind
 Rewind rewind rewind rewind
 One two three rewind
 1, 2, 3, again
 Eins zwei drei wieder (rewind)
 Un deux trois encore (rewind)
-
+[bridge]
 Whatever I do, time passes
 Whatever I do, time passes
 Too loud
 Whatever I do, time passes (time passes) time passes
-
+[verse]
 Whatever I do, time passes
 One more drink, I’m so out of it
 Whatever I do, time passes
@@ -30,7 +31,7 @@ Whatever I do, time passes
 Whatever you say
 Whatever I do
 Whatever you say
-
+[chorus]
 Rewind rewind rewind
 Rewind rewind rewind rewind
 One two three rewind

@@ -1,3 +1,4 @@
+[verse]
 
 
 My love for you is an everflowing water
@@ -14,6 +15,7 @@ It makes me forget all my troubles
 
 Tonight, hold me in your caring arms
 
+[chorus]
 I don't actually ask for much
 
 I don't actually ask for much
@@ -29,6 +31,7 @@ I've only wanted to be yours
 I've only wanted to be yours
  
 
+[verse]
 Tonight, being on your mind is not enough for me
 
 I want to be near you
@@ -40,13 +43,15 @@ I want to be in your bed
 I want to be in your bed
  
 
+[bridge]
 Only your love consoles me
 
 It makes me forget all my troubles
 
 Tonight, hold me in your caring arms
 
-I don't actually ask for much
+
+[chorus]I don't actually ask for much
 I don't actually ask for much
 
 I've only wanted to be yours in this world

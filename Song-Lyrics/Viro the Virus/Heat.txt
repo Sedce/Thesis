@@ -1,4 +1,4 @@
-[Intro: Viro The Virus]
+[intro]
 Yeah
 Snowgoons waddup, haha
 Viro The Virus, yeah
@@ -8,7 +8,7 @@ This is what I do
 And I love it
 Check me out
 
-[Verse 1: Viro The Virus]
+[verse]
 Yo, I see the price of cocaine must have gone way up
 When I see the things these dames would do for a buck
 And the rap game went lame, the industry sucks
@@ -37,7 +37,7 @@ Need this shit, cut me and I'll bleed this shit
 Speak my mind never plead the Fifth
 Give me a beat I keep some heat to spit (like this)
 
-[Verse 2: Viro The Virus]
+[verse]
 Yeah, I'm spotted frequent at the weed spot
 A veteran who fights dirty call me V hot
 Lord of the underground I chief rock
@@ -55,11 +55,9 @@ I stick to the script, how the story go
 Twist the spliff and stick my dick in the glory hole
 No homo but I'm sure to blow
 Like a torpedo, so shorty slow your roll
- 
 
-[Hook]
 
-[Verse 3: Viro The Virus]
+[verse]
 Jersey general, push past the limits to the pinnacle
 Be little and imbecile with lyricals
 Keep my thinking on critical
@@ -79,9 +77,7 @@ You're a fraud dog, eat a dick and scram
 Before the shit hits the fan
 Think you're seeing V? Need to switch your plan, nigga
 
-[Hook]
-
-[Outro: Viro The Virus]
+[outro]
 Yeah
 Viro The Virus
 That's what it is
@@ -94,4 +90,4 @@ It's MJ all day
 Going for broke niggas
 Yeah
 
-   1  
+ 
