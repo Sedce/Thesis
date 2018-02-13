@@ -1,26 +1,33 @@
+[intro]
 Every time I'm with you
 I am drunk
 And you are too
 Well what the hell
+[verse]
 Else are we
 Supposed to do
 Yeah every time
 You come by
+
 We get so trashed
 And stay up all night
+[bridge]
 Well it's so wrong
 But it's so right
 Yeah, it's alright
+[chorus]
 Every time, Every time
 Every time, Every time
 Every time, Every time
 I'm with you
 I guess it's true
+[chorus]
 Every time, Every time
 Every time, Every time
 Every time, Every time
 I'm with you
 I guess it's true
+[verse]
 And every time
 I'm with you
 I'm fucked up
@@ -28,11 +35,13 @@ And you are too
 Well what the hell
 Else are we
 Supposed to do
+[chorus]
 Every time, Every time
 Every time, Every time
 Every time, Every time
 I'm with you
 I guess it's true
+[outro]
 Every time, Every time
 Every time, Every time
 Every time, Every time
