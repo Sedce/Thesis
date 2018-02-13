@@ -1,4 +1,4 @@
-[intro]
+[verse]
 It's so strange
 
 How my life's changed

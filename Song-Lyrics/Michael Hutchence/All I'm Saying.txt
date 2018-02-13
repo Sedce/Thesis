@@ -9,15 +9,11 @@ I held so tight
 
 [verse]
 Kept you protected from things
-
-
 Did you ever think about it
 
 Did you ever cry about it
 
 Would you ever, ever doubt it
-
-
 
 [chorus]
 All I'm saying
@@ -27,7 +23,6 @@ Is come around
 Tell me 'bout
 
 The life you found
-
 
 [verse]
 I put my heart
@@ -41,7 +36,7 @@ One day, changes come
 [bridge]
 Some pain and rain comes falling down
 
-
+[chorus]
 Did you ever think about it
 
 Don't say it
@@ -65,6 +60,7 @@ The life you found
 Tell me 'bout the life you found
 
 [verse]
+
 We search endlessly
 
 For answers to war and pain
@@ -73,7 +69,8 @@ We love the nights
 
 Some days we laugh, feel like it's alright
 
-[outro]
+[chorus]
+
 Did you ever think about it
 
 Don't say it
@@ -84,7 +81,7 @@ Don't say it
 
 Could you ever live without it
 
-
+[outro]
 All I'm saying
 
 Is come around
@@ -100,3 +97,4 @@ Is come around
 Tell me bout
 
 The one you found
+

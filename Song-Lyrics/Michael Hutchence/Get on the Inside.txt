@@ -24,7 +24,6 @@ It's probably gonna stay that way
 Don't let me go and stop you
 
 If you're looking for a better view
-
 [chorus]
 Gonna take a ride
 (Take a ride)
@@ -60,7 +59,6 @@ Get on the inside
 (Get on the inside)
 
 (Get on the inside)
-
 [verse]
 Are we gonna kill the things that mean the most
 
@@ -78,7 +76,6 @@ It's probably gonna stay that way
 Don't let me go and stop you
 
 If you're looking for a better view
-
 [chorus]
 Gonna take a ride
 (Take a ride)
@@ -103,8 +100,7 @@ Gonna take a ride
 
 Get on the inside
 (Get it on the inside)
-
-[bridge]
+[verse]
 All you people, talking so lonely
 
 Making plans that your daddy wanted
@@ -121,7 +117,6 @@ Never gonna learn what you're running from
 Acting like the world just owes you
 
 Looking for love in all the wrong places
-
 [chorus]
 Gonna take a ride
 (Get on the inside, get on the inside)
@@ -172,6 +167,7 @@ Oh, oh
 (Let me ride)
 
 Oh, oh
+[outro]
 (Sweating it on the sweet tiny spot)
 
 Oh yeah, oh, oh, oh, oh, oh, oh, oh, oh, oh
