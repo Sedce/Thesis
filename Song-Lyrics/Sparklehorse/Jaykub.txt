@@ -1,3 +1,4 @@
+[verse]
 Jaykub
 It's time for you to wake up
 And accept your awards
@@ -11,11 +12,11 @@ You smile and you wave
 
 They all thought that you were dumb
 But it's you who's on that stage
-
+[chorus]
 Jaykub
 You work until the day's done
 And then you go to bed
-
+[verse]
 And never
 With anyone to talk to
 But the hero in your head
@@ -27,17 +28,17 @@ You're handsome and you're tall
 
 But actually you are
 Just hardly 5 foot small
-
+[chorus]
 Jaykub
 It's time for you to wake up
 And accept your awards
-
+[bridge]
 And go on
 And smile while your landlord
 Is pounding on the door
 
 Upon the podium
 You're famous and you're strong
-
+[outro]
 They may alarm
 Because often you're a sad riff in a song
