@@ -1,5 +1,6 @@
+[intro]
 Like to teach you
-
+[verse]
 Blue
 Sky
 Sun
@@ -8,11 +9,11 @@ Be
 Mine
 Star
 Eyes
-
+[chorus]
 I can't catch it
 I can't catch it
 I can't catch it
-
+[verse]
 Love
 Please
 Come
@@ -21,11 +22,11 @@ Send
 You
 Cry
 Gone
-
+[chorus]
 I can't catch it
 I can't catch it
 I can't catch it
-
+[verse]
 Please
 Please
 Sun
@@ -34,13 +35,13 @@ Be
 Mine
 Come
 Back
-
+[chorus]
 I can't catch it
 I can't catch it
 I can't catch it
 I can't catch it
 I can't catch it
-
+[outro]
 Come
 Back
 Send
