@@ -1,4 +1,4 @@
-[intro]
+[chorus]
 You're a go nowhere! And you don't care!
 You're a go nowhere! You're not even there!
 [verse]
@@ -11,7 +11,7 @@ A whole generation of gonowheres
 The living dead in 3-D life
 A whole generation of stagnant lives
 Standing still, deaf dumb and blind
-[outro]
+[chorus]
 You're a gonowhere! And you don't care!
 You're a gonowhere! You're fucking lost!
 

@@ -1,4 +1,4 @@
-[verse]
+[chorus]
 Pluckin' all day on my angel's harp
 Pluckin' all day on my angel's harp
 Shoutin' at the risin' moon
@@ -14,6 +14,7 @@ I knew you'd finally come around
 Won't you please enjoy the sound?
 I didn't say clap
 And I didn't stay sharp
+[chorus]
 I'm pluckin' all day on my angel's harp
 And when I saw your eyes, all brown
 I pulled them boy and lo I cut you down
@@ -24,6 +25,7 @@ This is what we shall call kill
 Pluckin' all day on our angel's harp
 A resonator is soundin' dark
 Though you might be walkin' tall
+[outro]
 Everybody got a lot to grow
 Pluckin' all day on my angel's harp
 Pluckin' all day on my angel's harp

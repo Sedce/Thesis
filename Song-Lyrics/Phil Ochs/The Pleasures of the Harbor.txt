@@ -1,3 +1,4 @@
+[verse]
 And the ship sets the sail
 They've lived the tale
 To carry to the shore
@@ -9,12 +10,12 @@ She waves in swells
 And sends them on their way
 Time has been her pay
 And time will have to tell
-
+[chorus]
 Oh, soon your
 Sailing will be over
 Come and take
 The pleasures of the harbor
-
+[verse]
 And the anchor hits the sand
 The hungry hands
 Have tied them to the port
@@ -27,12 +28,12 @@ With paint on their face
 Soft is their embrace
 To lead them up the stairs
  
-
+[chorus]
 Soon your
 Sailing will be over
 Come and take
 The pleasures of the harbor
-
+[verse]
 In the room dark and dim
 Touch of skin
 He asks her of her name
@@ -44,30 +45,30 @@ Sip of wine
 The cigarette of doubt
 The candle is blown out
 The darkness is so kind
-
+[chorus]
 Oh, soon your
 Sailing will be over
 Come and take
 The pleasures of the harbor
-
+[verse]
 And the shadows frame the light
 Same old sight
 Thrill has blown away
 Now all alone they lay
 Two strangers in the night
  
-
+[bridge]
 Till his heart skips a beat
 He's on his feet
 To shipmates he must join
 She's counting up the coins
 He's swallowed by the street
-
+[chorus]
 Oh, soon your
 Sailing will be over
 Come and take
 The pleasures of the harbor
-
+[verse]
 In the bar hangs a cloud
 The whiskey's loud
 There's laughter in their eyes
@@ -79,13 +80,13 @@ The haze is fast
 He's trembling for the taste
 Of passion gone to waste
 In memories of the past
-
+[chorus]
 Oh, soon your
 Sailing will be over
 Come and take
 The pleasures of the harbor
  
-
+[bridge]
 In the alley, red with rain
 Cry of pain
 For love was but a smile
@@ -97,12 +98,12 @@ They gently mock
 And lift him on their backs
 Lay him on his rack
 And leave beneath the light
-
+[chorus]
 Oh, soon your
 Sailing will be over
 Come and take
 The pleasures of the harbor
-
+[outro]
 And the ship sets the sail
 They've lived the tale
 To carry from the shore
@@ -114,7 +115,7 @@ She waves in swells
 And sends them on their way
 Time has been her pay
 And time will have to tell
-
+[chorus]
 Oh, soon your
 Sailing will be over
 Come and take

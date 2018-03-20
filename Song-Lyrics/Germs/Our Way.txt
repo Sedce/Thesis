@@ -1,4 +1,4 @@
-[intro]
+[verse]
 Clara would be proud to know us
 We've taken it to the end
 Where the grey turns to black

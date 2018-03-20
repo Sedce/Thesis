@@ -1,3 +1,5 @@
+[verse]
+
 I wanna show you the rhythm and the roll
 And take it into the center of my soul
 I wanna run through the fields of your imagination
@@ -6,6 +8,7 @@ Under the blue skies, you're the golden sun
 I look in your eyes and know you are the one
 See where my heart lies, trippin' on the fascination
 
+[chorus]
 Along the way
 I will hang on every single word you say
 And should you whisper asking me to stay
@@ -25,16 +28,18 @@ Never has it ever felt so right
 And from this moment on you are the sight
 I can't erase, I close my eyes to see your face
  
-
+[chorus]
 I wanna know how it feels to believe in something
 Ride on the heels of a good thing coming
 Run to the one thing I know is something true
 
+[verse]
 I wanna live my life like I hold the meaning
 Deep inside my soul I hear the music screaming
 Eyes wide open, I'm awake and dreaming too
-I wanna be with you
 
+I wanna be with you
+[chorus]
 I wanna show you the rhythm and the roll
 And take you into the center of my soul
 I wanna run through the fields of your imagination

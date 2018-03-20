@@ -1,3 +1,4 @@
+[verse]
 Who's that coming down the road
 A sailor from the sea
 He looks a lot like me
@@ -10,12 +11,12 @@ He should be put away, right away
 In the corner of the night
 He handed me his waterpipe
 His eyes were searching deep inside my head
-
+[chorus]
 Here's what he said
 Sorry I can't stop and talk now
 I'm in kind of a hurry anyhow
 But I'll send you a tape from California
-
+[verse]
 New York city has exploded and it's crashed upon my head
 I dove beneath the bed
 Fighting, biting nails, turning pale
@@ -31,12 +32,12 @@ Sorry I can't stop and talk now
 I'm in kind of a hurry anyhow
 But I'll send you a tape from California
  
-
+[chorus]
 From the mirror of my mantle to the velvet on my bed
 Trapped upon a stolen stage, a Barrymore at best(?)
 My rhymes are all repeating, ballads growing blind
 Words have turned to water, the women turned to wine
-
+[verse]
 The draft board is debating if they'd like to take my life
 I'd sooner take a wife and have raise a child or two
 Wouldn't you?
@@ -51,7 +52,7 @@ Seeds in the soil
 Sorry I can't stop and talk now
 I'm in kind of a hurry anyhow
 But I'll send you a tape from California
-
+[chorus]
 The flower-power fuller brush man
 Is farming out his friends
 I stabbed him with my stem
@@ -69,12 +70,12 @@ Sorry I can't stop and talk now
 I'm in kind of a hurry anyhow
 But I'll send you a tape from California
  
-
+[chorus]
 Half the world is crazy and the other half is scared
 Maddonas do the minuet for the naked millionaires
 The anarchists are rising while we're racing for the moon
 It doesn't take a seer to see that the scene is coming soon
-
+[verse]
 So who's that coming down the road
 A sailor from the sea
 He looks a lot like me

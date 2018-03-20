@@ -1,3 +1,4 @@
+[verse]
 Rise now, awaken from your slumber
 The spell that you?re under
 Is melting away now
@@ -7,7 +8,7 @@ And making a shadow
 The ghost of a long day
 Goes driftin? by
 It?s so late and now it?s time to
-
+[chorus]
 Rise
 You?re runnin? out of daylight
 Stare into the sunlight
@@ -18,7 +19,7 @@ And while the world is sleeping
 The light is in your keeping
 Open up your eyes
 Rise
-
+[verse]
 Nightmares have gone
 And left you haunted
 You got what you wanted
@@ -30,7 +31,7 @@ The pain of your pleasures
 Has taken you way down
 But now it?s time to lay down
 Your broken mind and
-
+[chorus]
 Rise
 You?re runnin? out of daylight
 Stare into the sunlight

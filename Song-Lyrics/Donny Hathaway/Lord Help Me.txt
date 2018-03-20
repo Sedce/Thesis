@@ -1,8 +1,9 @@
-[intro]
+[chorus]
 (Lord help me)
 (Lord help me)
 (Lord help me) once more again, your humble servant is calling on your name
 (Lord help me) I've got something I want you to do for me
+[verse]
 Help me to inspire those that need inspiration
 Let my life be a sign of a coming generation
 (Lord help me) and I'm also asking you to help my brother
