@@ -1,4 +1,4 @@
-Artist,Song Title,sadness,joy,fear,disgust,anger
+Artist,Song Title,sadness_chorus,joy_chorus,fear_chorus,disgust_chorus,anger_chorus
 Albert Ayler,Music is the Healing force of the Universe,0.183425,0.773032,0.035934,0.001244,0.014387
 Antonio Flores,Isla de Palma,0.132957,0.572446,0.377735,0.002654,0.008717
 Badfinger,Come On,0.153447,0.328575,0.140589,0.071614,0.12738
