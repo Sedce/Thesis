@@ -1,0 +1,76 @@
+,Artist,Song Title,Genre,verse_emotion,chorus_emotion,Tempo,Loudness,Energy,Valence,Mode,Danceability
+0,Albert Ayler,Music is the Healing force of the Universe,avant-garde,joy,joy,86.478,-7.32,0.736,0.424,1,0.303
+1,Badfinger,Too Hung Up On You,rock,joy,sadness,100.904,-8.514,0.731,0.721,1,0.649
+2,Bob Brozman,The Lonesome Road,country blues,sadness,joy,76.247,-15.873,0.127,0.36,1,0.56
+3,Chris Cornell,Dead Wishes,alternative metal,sadness,sadness,100.02600000000001,-5.571000000000001,0.716,0.34299999999999997,1,0.5720000000000001
+4,Chris Cornell,Josephine,alternative metal,sadness,joy,78.023,-7.057,0.379,0.222,1,0.299
+5,Chris Cornell,Misery Chain,alternative metal,sadness,sadness,87.539,-8.73,0.33799999999999997,0.115,0,0.456
+6,Chris Cornell,Murderer Of Blue Skies,alternative metal,anger,fear,80.061,-6.557,0.745,0.32,1,0.49200000000000005
+7,Chris Cornell,Only These Words,alternative metal,joy,joy,106.00399999999999,-6.3,0.634,0.789,1,0.556
+8,Chris Cornell,Through The Window,alternative metal,sadness,sadness,76.90100000000001,-6.937,0.479,0.376,1,0.528
+9,Chris Cornell,Worried Moon,alternative metal,fear,fear,90.993,-5.754,0.755,0.479,1,0.534
+10,Donny Hathaway,I Love You More Than You'll Ever Know,soul,joy,joy,86.23899999999999,-15.617,0.21899999999999997,0.19899999999999998,0,0.304
+11,Donny Hathaway,Love love love,soul,joy,joy,93.777,-8.71,0.636,0.69,1,0.49700000000000005
+12,Donny Hathaway,Someday We'll All Be Free,soul,joy,joy,77.02199999999999,-11.497,0.413,0.249,1,0.379
+13,Elliott Smith,A Distorted Reality is Now a Necessity to be Free,alternative rock,sadness,joy,83.512,-9.621,0.441,0.294,1,0.575
+14,Elliott Smith,A Passing Feeling,alternative rock,anger,sadness,73.715,-8.465,0.52,0.16,0,0.368
+15,Elliott Smith,Coast To Coast,alternative rock,anger,anger,84.40899999999999,-9.802999999999999,0.677,0.174,1,0.183
+16,Elliott Smith,Let's Get Lost,alternative rock,joy,sadness,92.11200000000001,-15.222999999999999,0.337,0.575,0,0.541
+17,Elliott Smith,Memory Lane,alternative rock,anger,sadness,106.04299999999999,-12.264000000000001,0.35600000000000004,0.484,0,0.613
+18,Elliott Smith,Pretty (Ugly Before),alternative rock,joy,joy,75.788,-7.707999999999999,0.509,0.19,1,0.48700000000000004
+19,Elliott Smith,Shooting Star,alternative rock,joy,sadness,105.95299999999999,-7.562,0.7979999999999999,0.505,1,0.517
+20,Ephraim Lewis,Drowning in Your Eyes,rock,joy,sadness,110.446,-12.625,0.419,0.529,0,0.6890000000000001
+21,Ephraim Lewis,Mortal Seed,rock,joy,sadness,86.095,-11.008,0.423,0.298,1,0.318
+22,Germs,Let's Pretend,crossover thrash,sadness,anger,108.91799999999999,-7.776,0.986,0.337,0,0.43
+23,Germs,Lexicon Devil,crossover thrash,sadness,joy,106.272,-7.468999999999999,0.877,0.821,0,0.504
+24,Germs,Manimal,crossover thrash,sadness,joy,105.87899999999999,-8.354,0.956,0.319,0,0.318
+25,Germs,Richie Dagger's Crime,crossover thrash,disgust,joy,103.056,-8.297,0.9109999999999999,0.5710000000000001,1,0.379
+26,Germs,We Must Bleed,crossover thrash,anger,sadness,108.991,-7.587000000000001,0.968,0.256,0,0.295
+27,hide,Hurry go round,metal,sadness,sadness,84.024,-11.773,0.317,0.7979999999999999,1,0.557
+28,Jonghyun,#Hashtag,k-pop,anger,disgust,105.05799999999999,-8.783999999999999,0.46399999999999997,0.652,0,0.86
+29,Jonghyun,Before Our Spring,k-pop,joy,fear,103.976,-9.517999999999999,0.24600000000000002,0.40399999999999997,1,0.634
+30,Jonghyun,Just for a day,k-pop,sadness,sadness,99.87200000000001,-3.846,0.802,0.36700000000000005,1,0.711
+31,Jonghyun,Sentimental,k-pop,sadness,sadness,82.95100000000001,-5.25,0.635,0.396,0,0.466
+32,Jonghyun,Sightseeing,k-pop,disgust,disgust,85.023,-2.833,0.902,0.7759999999999999,1,0.6759999999999999
+33,Jonghyun,Take The Dive,k-pop,joy,joy,105.10799999999999,-4.114,0.708,0.527,0,0.52
+34,Joy Division,Decades,alternative rock,fear,sadness,107.089,-9.206,0.5379999999999999,0.436,1,0.5720000000000001
+35,Joy Division,The Eternal,alternative rock,sadness,sadness,109.574,-14.043,0.474,0.327,1,0.507
+36,Keith Emerson,"The Endless Enigma Suite, Pt. 1",rock,sadness,fear,87.602,-11.705,0.374,0.0742,1,0.17
+37,Keith Emerson,"The Endless Enigma Suite, Pt. 2",rock,sadness,joy,77.233,-10.944,0.298,0.23399999999999999,1,0.262
+38,Kim Kwang-seok,Get Up(with Common Ground),pop,sadness,joy,95.006,-6.377999999999999,0.516,0.706,0,0.6779999999999999
+39,Kim Kwang-seok,Where the Wind Rises(with Hareem),pop,joy,fear,107.939,-5.547999999999999,0.425,0.344,1,0.51
+40,Kingston Wall,Another Piece of Cake,rock,sadness,anger,95.79899999999999,-7.154,0.759,0.47100000000000003,0,0.43200000000000005
+41,Link 80,For What It's Worth,ska,fear,anger,106.50200000000001,-9.748,0.47700000000000004,0.302,0,0.423
+42,Link 80,No Such Thing,ska,anger,sadness,108.361,-8.832,0.856,0.782,1,0.32299999999999995
+43,Link 80,The Truth of It,ska,sadness,anger,107.876,-9.482000000000001,0.865,0.5870000000000001,0,0.34
+44,Material Issue,She's Goin' Thru My Head,pop,joy,joy,93.906,-5.736000000000001,0.9670000000000001,0.36700000000000005,1,0.313
+45,Michael Hutchence,Baby It's Alright,alternative rock,fear,joy,95.823,-5.4239999999999995,0.9259999999999999,0.685,0,0.718
+46,Michael Hutchence,Breathe,alternative rock,joy,sadness,74.926,-8.443,0.61,0.409,0,0.52
+47,Michael Hutchence,Get on the Inside,alternative rock,sadness,joy,93.935,-5.273,0.9059999999999999,0.805,1,0.7170000000000001
+48,Michael Hutchence,Let Me Show You,alternative rock,sadness,sadness,97.99,-7.097,0.851,0.47700000000000004,0,0.531
+49,Michael Hutchence,Put the Pieces Back Together,alternative rock,sadness,disgust,94.471,-6.252999999999999,0.855,0.436,1,0.69
+50,Michael Hutchence,Slide Away,alternative rock,sadness,joy,109.87899999999999,-9.217,0.608,0.154,1,0.6659999999999999
+51,Nick Drake,From the Morning,rock,joy,joy,109.00200000000001,-19.092,0.161,0.415,1,0.657
+52,Nick Drake,Pink Moon,rock,joy,joy,82.321,-15.435,0.26,0.491,1,0.456
+53,Nick Drake,Place to Be,rock,joy,joy,83.34299999999999,-16.29,0.223,0.441,1,0.52
+54,Nick Drake,Things Behind the Sun,rock,joy,sadness,102.868,-17.421,0.175,0.259,1,0.6809999999999999
+55,Nick Drake,Which Will,rock,joy,joy,95.367,-17.283,0.185,0.43,0,0.637
+56,Nirvana,Heart-Shaped Box,alternative rock,sadness,joy,101.539,-10.232999999999999,0.677,0.316,1,0.494
+57,Owsley,Be With You,pop,sadness,joy,104.947,-3.738,0.912,0.299,1,0.523
+58,Owsley,Matriarch,pop,joy,sadness,105.78,-7.106,0.5529999999999999,0.133,1,0.521
+59,Owsley,Rise,pop,fear,fear,98.007,-4.479,0.8809999999999999,0.335,1,0.447
+60,Owsley,She's the One,pop,sadness,sadness,84.198,-4.711,0.815,0.32899999999999996,1,0.358
+61,Owsley,The Hard Way,pop,sadness,sadness,105.854,-5.962000000000001,0.7559999999999999,0.27399999999999997,0,0.511
+62,Reagan Youth,Anytown,punk rock,sadness,joy,99.969,-13.950999999999999,0.733,0.413,0,0.391
+63,Reagan Youth,New Aryans,punk rock,joy,sadness,101.34,-15.774000000000001,0.695,0.615,0,0.386
+64,Sparklehorse,Everytime I'm With You,mashup,anger,joy,108.03,-8.019,0.522,0.39299999999999996,0,0.581
+65,Sparklehorse,Grim Augury,mashup,joy,fear,77.967,-7.308,0.616,0.5329999999999999,0,0.34700000000000003
+66,Sparklehorse,Insane Lullaby,mashup,joy,joy,85.021,-4.7860000000000005,0.6709999999999999,0.248,1,0.363
+67,Sparklehorse,Just War,mashup,fear,fear,98.225,-6.805,0.521,0.11599999999999999,1,0.52
+68,Sparklehorse,The Man Who Played God,mashup,joy,joy,70.493,-5.563,0.634,0.395,1,0.561
+69,The Raphaels,Private Battlefield,country,fear,sadness,95.245,-7.175,0.387,0.315,1,0.542
+70,Viro the Virus,Heat,underground rap,anger,anger,90.014,-5.181,0.708,0.5670000000000001,1,0.7020000000000001
+71,Yavuz Cetin,Benimle Ucmak Ister misin,rock,sadness,fear,77.09899999999999,-7.8420000000000005,0.72,0.446,1,0.27699999999999997
+72,Yavuz Cetin,Hersey Biter,rock,fear,joy,90.399,-7.327000000000001,0.695,0.556,0,0.5429999999999999
+73,Yavuz Cetin,Sadece Senin Olmak,rock,joy,joy,83.637,-8.618,0.649,0.6,1,0.478
+74,Yavuz Cetin,Yasamak Istemem,rock,anger,sadness,82.73100000000001,-8.222000000000001,0.596,0.444,0,0.405
