@@ -5,12 +5,13 @@ import matplotlib.pyplot as plt
 # Though the following import is not directly being used, it is required
 # for 3D projection to work
 from mpl_toolkits.mplot3d import Axes3D
-
+from sklearn import decomposition
 from sklearn.cluster import KMeans
 from sklearn import datasets
-%matplotlib inline
 import matplotlib.pyplot as plt
 import seaborn as sns; sns.set()  # for plot styling
+import pandas as pd
+import csv
 def ClusterIndicesNumpy(clustNum, labels_array):
     return np.where(labels_array == clustNum)[0]
 def getMaximumEmotions():
@@ -26,14 +27,17 @@ def getMaximumEmotions():
             index_chorus, value_chorus = max(enumerate(ch.loc[i][14:19]), key=operator.itemgetter(1))
             sentiment_writer.writerow([ch.loc[i, 'Artist'],ch.loc[i, 'Song Title'],index_verse,index_chorus,ch.loc[i, 'Genre'],ch.loc[i, 'Tempo'],ch.loc[i, 'Loudness'],ch.loc[i, 'Energy'],ch.loc[i, 'Danceability'],ch.loc[i, 'Mode'],ch.loc[i, 'Valence']])
 
-def cluster3d(X):
+def cluster3d(X, k):
     # Code source: Gaël Varoquaux
 # Modified for documentation by Jaques Grobler
 # License: BSD 3 clause
+    #pca = decomposition.PCA(n_components=2)
+    #pca.fit(X)
+    #X = pca.transform(X)
     np.random.seed(5)
     colors = ['r', 'g', 'b']
-    iris = datasets.load_iris()
-    estimators = [('k_means_iris_3', KMeans(n_clusters=3))]
+    #iris = datasets.load_iris()
+    estimators = [('k_means_iris_3', KMeans(n_clusters=k))]
     fignum = 1
     titles = ['3 clusters']
     for name, est in estimators:
@@ -48,17 +52,25 @@ def cluster3d(X):
         ax.w_xaxis.set_ticklabels([])
         ax.w_yaxis.set_ticklabels([])
         ax.w_zaxis.set_ticklabels([])
-        ax.set_xlabel('Genre')
-        ax.set_ylabel('Tempo')
-        ax.set_zlabel('Valence')
+        ax.set_xlabel('x')
+        ax.set_ylabel('y')
+        ax.set_zlabel('z')
         ax.set_title(titles[fignum - 1])
         ax.dist = 12
         fignum = fignum + 1
     plt.show()
-def cluster2d(X):
-    plt.scatter(X[:,3], X[:, 8], s=50);
+    return labels
+def cluster2d(X,k):
+    pca = decomposition.PCA(n_components=2)
+    pca.fit(X)
+    km = pca.transform(X)
+    km = KMeans(n_clusters=k)
+    km.fit(X)
+    labels = km.labels_
+    colors = ['r', 'g', 'b']
+    plt.scatter(X[:,0], X[:, 1], s=50);
+    plt.scatter(X[:, 0], X[:, 1], c=labels, s=50, cmap='viridis')
 
-    plt.scatter(X[:, 3], X[:, 8], c=labels, s=50, cmap='viridis')
-
-    centers = kmeans.cluster_centers_
-    plt.scatter(centers[:, 3], centers[:, 8], c='black', s=200, alpha=0.5);
+    centers = km.cluster_centers_
+    plt.scatter(centers[:, 0], centers[:, 1], c='black', s=200, alpha=0.5);
+    plt.show()

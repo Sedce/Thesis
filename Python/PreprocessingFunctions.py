@@ -34,16 +34,16 @@ def mergAudioandTextualfeatures():
     merged_allfeatures = pd.merge(audio_features,all_emotions, how='left', on='Song Title')
     merged_allfeatures.to_csv('all_features.csv', index=False)
 def getEmotionsinChorus():
-    sp = pd.read_csv('merged.csv', sep=',', encoding = "ISO-8859-1")
+    sp = pd.read_csv('alive-musicians.csv', sep=',', encoding = "ISO-8859-1")
     chorus_part = sp.chorus
 
 
     natural_language_understanding = NaturalLanguageUnderstandingV1(
-      username='3e96f7e6-dd45-4207-a804-32e49f400be2',
-      password='LmirYjWVQMr1',
+      username='1c0beaf1-fd39-4332-84bc-771391b4966d',
+      password='OzrVxY66aihC',
       version='2017-02-27')
 
-    with open('sentiment_chorus.csv', 'w') as csvfile:
+    with open('sentiment_alive_c.csv', 'w') as csvfile:
         sentiment_writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
         sentiment_writer.writerow(["Artist", "Song Title", "sadness","joy","fear","disgust","anger"])
         for i in range(len(sp.index)):
@@ -65,32 +65,31 @@ def getEmotionsinChorus():
                 print(e)
                 
 def getEmotionsinVerse():
-    sp = pd.read_csv('merged.csv', sep=',', encoding = "ISO-8859-1")
-chorus_part = sp.verse
+    sp = pd.read_csv('alive-musicians.csv', sep=',', encoding = "ISO-8859-1")
+    chorus_part = sp.verse
 
-natural_language_understanding = NaturalLanguageUnderstandingV1(
-  username='3e96f7e6-dd45-4207-a804-32e49f400be2',
-  password='LmirYjWVQMr1',
-  version='2017-02-27')
+    natural_language_understanding = NaturalLanguageUnderstandingV1(
+      username='1c0beaf1-fd39-4332-84bc-771391b4966d',
+      password='OzrVxY66aihC',
+      version='2017-02-27')
 
-with open('sentiment_verse.csv', 'w') as csvfile:
-    sentiment_writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-    sentiment_writer.writerow(["Artist", "Song Title", "sadness","joy","fear","disgust","anger"])
-    for i in range(len(sp.index)):
-        try:
-            an_verse = sp.loc[i, 'verse']
-            artist = sp.loc[i, 'Artist']
-            song_title = sp.loc[i, 'Song Title']
-            #try:
-            response = natural_language_understanding.analyze(
-                text= an_verse,
-                features=Features(
-                emotion=EmotionOptions()))
-            response = response['emotion']['document']
-            print(response)
-            #except Exception as e:
-                #print('ERROR')
-            sentiment_writer.writerow([artist, song_title, response['emotion']['sadness'],response['emotion']['joy'],response['emotion']['fear'],response['emotion']['disgust'],response['emotion']['anger']])
-        except Exception as e:
-            print(e)
-            
+    with open('sentiment_alive_v.csv', 'w') as csvfile:
+        sentiment_writer = csv.writer(csvfile, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+        sentiment_writer.writerow(["Artist", "Song Title", "sadness","joy","fear","disgust","anger"])
+        for i in range(len(sp.index)):
+            try:
+                an_verse = sp.loc[i, 'verse']
+                artist = sp.loc[i, 'Artist']
+                song_title = sp.loc[i, 'Song Title']
+                #try:
+                response = natural_language_understanding.analyze(
+                    text= an_verse,
+                    features=Features(
+                    emotion=EmotionOptions()))
+                response = response['emotion']['document']
+                print(response)
+                #except Exception as e:
+                    #print('ERROR')
+                sentiment_writer.writerow([artist, song_title, response['emotion']['sadness'],response['emotion']['joy'],response['emotion']['fear'],response['emotion']['disgust'],response['emotion']['anger']])
+            except Exception as e:
+                print(e)

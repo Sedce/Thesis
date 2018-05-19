@@ -1,56 +1,68 @@
-,Artist,Song Title,Genre,verse_emotion,chorus_emotion,Tempo,Loudness,Energy,Valence,Mode,Danceability
-0,Albert Ayler,Music is the Healing force of the Universe,avant-garde,joy,joy,86.478,-7.32,0.736,0.424,1,0.303
-1,Antonio Flores,Isla de Palma,ballad,sadness,joy,118.029,-11.333,0.6609999999999999,0.862,1,0.883
-2,Badfinger,Come On,rock,sadness,joy,142.38,-6.832000000000001,0.877,0.7170000000000001,1,0.519
-3,Badfinger,Dennis,rock,fear,sadness,118.191,-8.446,0.6659999999999999,0.547,1,0.32899999999999996
-4,Badfinger,Just A Chance,rock,sadness,sadness,123.51700000000001,-9.062999999999999,0.752,0.71,1,0.39799999999999996
-5,Badfinger,Know One Knows,rock,sadness,joy,119.829,-8.228,0.743,0.5479999999999999,0,0.475
-6,Badfinger,Rock N' Roll Contract,rock,sadness,joy,159.335,-9.317,0.841,0.49,0,0.325
-7,Badfinger,Three Time Loser,rock,sadness,sadness,125.46600000000001,-8.013,0.897,0.8740000000000001,1,0.627
-8,Badfinger,Too Hung Up On You,rock,joy,sadness,100.904,-8.514,0.731,0.721,1,0.649
-9,Billie Holiday,Gloomy Sunday,blues,anger,fear,127.089,-11.273,0.0823,0.191,0,0.484
-10,Bob Brozman,The Lonesome Road,country blues,sadness,joy,76.247,-15.873,0.127,0.36,1,0.56
-11,Del Shannon,Runaway,pop,joy,sadness,139.42700000000002,-5.811,0.629,0.853,1,0.715
-12,Ephraim Lewis,Drowning in Your Eyes,rock,joy,sadness,110.446,-12.625,0.419,0.529,0,0.6890000000000001
-13,Ephraim Lewis,Mortal Seed,rock,joy,sadness,86.095,-11.008,0.423,0.298,1,0.318
-14,Ephraim Lewis,Sad Song,rock,sadness,sadness,120.57700000000001,-13.414000000000001,0.457,0.5579999999999999,1,0.6
-15,Herman Brood,My Way,ballad,sadness,sadness,152.011,-15.722000000000001,0.282,0.141,1,0.425
-16,Herman Brood,When I Get Home,pop,sadness,joy,116.697,-15.936,0.14,0.57,1,0.607
-17,Keith Emerson,"The Endless Enigma Suite, Pt. 1",rock,sadness,fear,87.602,-11.705,0.374,0.0742,1,0.17
-18,Keith Emerson,"The Endless Enigma Suite, Pt. 2",rock,sadness,joy,77.233,-10.944,0.298,0.23399999999999999,1,0.262
-19,Kim Kwang-seok,Get Up(with Common Ground),pop,sadness,joy,95.006,-6.377999999999999,0.516,0.706,0,0.6779999999999999
-20,Kim Kwang-seok,Where the Wind Rises(with Hareem),pop,joy,fear,107.939,-5.547999999999999,0.425,0.344,1,0.51
-21,Kingston Wall,Alt-Land-Is,rock,sadness,joy,141.718,-6.346,0.873,0.213,0,0.27399999999999997
-22,Kingston Wall,Another Piece of Cake,rock,sadness,anger,95.79899999999999,-7.154,0.759,0.47100000000000003,0,0.43200000000000005
-23,Kingston Wall,For All Mankind,rock,sadness,joy,135.577,-9.081,0.652,0.133,1,0.368
-24,Kingston Wall,"I'm the King, I'm the Sun",rock,joy,joy,123.395,-6.8839999999999995,0.893,0.33,1,0.489
-25,Kingston Wall,Party Goes On,rock,sadness,disgust,143.41899999999998,-5.794,0.948,0.264,0,0.332
-26,Kingston Wall,Take You to Sweet Harmony,rock,joy,joy,141.63,-8.204,0.604,0.48200000000000004,1,0.605
-27,Kingston Wall,The Real Thing,rock,joy,sadness,122.994,-10.419,0.397,0.0981,1,0.24
-28,Kingston Wall,Welcome to the Mirrorland,rock,joy,joy,111.384,-13.504000000000001,0.24,0.031,1,0.23800000000000002
-29,Material Issue,A Very Good Thing,pop,sadness,joy,169.549,-5.8870000000000005,0.8909999999999999,0.552,1,0.221
-30,Material Issue,Kim the Waitress,pop,joy,joy,130.579,-7.65,0.721,0.337,1,0.223
-31,Material Issue,She's Goin' Thru My Head,pop,joy,joy,93.906,-5.736000000000001,0.9670000000000001,0.36700000000000005,1,0.313
-32,Nick Drake,From the Morning,rock,joy,joy,109.00200000000001,-19.092,0.161,0.415,1,0.657
-33,Nick Drake,Parasite,rock,joy,disgust,131.391,-16.472,0.204,0.255,1,0.61
-34,Nick Drake,Pink Moon,rock,joy,joy,82.321,-15.435,0.26,0.491,1,0.456
-35,Nick Drake,Place to Be,rock,joy,joy,83.34299999999999,-16.29,0.223,0.441,1,0.52
-36,Nick Drake,Road,rock,joy,fear,151.017,-16.119,0.264,0.778,0,0.585
-37,Nick Drake,Things Behind the Sun,rock,joy,sadness,102.868,-17.421,0.175,0.259,1,0.6809999999999999
-38,Nick Drake,Which Will,rock,joy,joy,95.367,-17.283,0.185,0.43,0,0.637
-39,Owsley,Be With You,pop,sadness,joy,104.947,-3.738,0.912,0.299,1,0.523
-40,Owsley,Dirty Bird,pop,joy,disgust,186.408,-4.5169999999999995,0.9059999999999999,0.28300000000000003,1,0.275
-41,Owsley,Down,pop,sadness,sadness,184.078,-4.792,0.8740000000000001,0.23,0,0.259
-42,Owsley,Dude,pop,joy,anger,168.019,-3.95,0.872,0.223,1,0.309
-43,Owsley,Matriarch,pop,joy,sadness,105.78,-7.106,0.5529999999999999,0.133,1,0.521
-44,Owsley,Rise,pop,fear,fear,98.007,-4.479,0.8809999999999999,0.335,1,0.447
-45,Owsley,She's the One,pop,sadness,sadness,84.198,-4.711,0.815,0.32899999999999996,1,0.358
-46,Owsley,The Hard Way,pop,sadness,sadness,105.854,-5.962000000000001,0.7559999999999999,0.27399999999999997,0,0.511
-47,Owsley,Undone,pop,joy,joy,182.24599999999998,-4.025,0.929,0.31,1,0.29100000000000004
-48,Susan Fassbender,Merry-go-round,pop,joy,sadness,130.627,-10.002,0.485,0.484,1,0.569
-49,Yavuz Cetin,Benimle Ucmak Ister misin,rock,sadness,fear,77.09899999999999,-7.8420000000000005,0.72,0.446,1,0.27699999999999997
-50,Yavuz Cetin,Hersey Biter,rock,fear,joy,90.399,-7.327000000000001,0.695,0.556,0,0.5429999999999999
-51,Yavuz Cetin,Kole,rock,sadness,joy,139.21200000000002,-9.847000000000001,0.6579999999999999,0.308,0,0.29600000000000004
-52,Yavuz Cetin,Oyuncak Dunya,rock,sadness,disgust,143.529,-11.222999999999999,0.3,0.073,1,0.39399999999999996
-53,Yavuz Cetin,Sadece Senin Olmak,rock,joy,joy,83.637,-8.618,0.649,0.6,1,0.478
-54,Yavuz Cetin,Yasamak Istemem,rock,anger,sadness,82.73100000000001,-8.222000000000001,0.596,0.444,0,0.405
+,Artist,Song Title,Genre,verse_emotion,chorus_emotion,Loudness,Energy,Valence,Mode,Danceability
+0,Albert Ayler,Music is the Healing force of the Universe,avant-garde,joy,joy,-7.32,0.736,0.424,1,0.303
+1,Antonio Flores,Isla de Palma,ballad,sadness,joy,-11.333,0.6609999999999999,0.862,1,0.883
+2,Badfinger,Come On,rock,sadness,joy,-6.832000000000001,0.877,0.7170000000000001,1,0.519
+3,Badfinger,Dennis,rock,fear,sadness,-8.446,0.6659999999999999,0.547,1,0.32899999999999996
+4,Badfinger,Just A Chance,rock,sadness,sadness,-9.062999999999999,0.752,0.71,1,0.39799999999999996
+5,Badfinger,Know One Knows,rock,sadness,joy,-8.228,0.743,0.5479999999999999,0,0.475
+6,Badfinger,Rock N' Roll Contract,rock,sadness,joy,-9.317,0.841,0.49,0,0.325
+7,Badfinger,Three Time Loser,rock,sadness,sadness,-8.013,0.897,0.8740000000000001,1,0.627
+8,Badfinger,Too Hung Up On You,rock,joy,sadness,-8.514,0.731,0.721,1,0.649
+9,Billie Holiday,Gloomy Sunday,blues,anger,fear,-11.273,0.0823,0.191,0,0.484
+10,Del Shannon,Runaway,pop,joy,sadness,-5.811,0.629,0.853,1,0.715
+11,Ephraim Lewis,Drowning in Your Eyes,rock,joy,sadness,-12.625,0.419,0.529,0,0.6890000000000001
+12,Ephraim Lewis,Mortal Seed,rock,joy,sadness,-11.008,0.423,0.298,1,0.318
+13,Ephraim Lewis,Sad Song,rock,sadness,sadness,-13.414000000000001,0.457,0.5579999999999999,1,0.6
+14,Herman Brood,My Way,ballad,sadness,sadness,-15.722000000000001,0.282,0.141,1,0.425
+15,Herman Brood,When I Get Home,pop,sadness,joy,-15.936,0.14,0.57,1,0.607
+16,Keith Emerson,"The Endless Enigma Suite, Pt. 1",rock,sadness,fear,-11.705,0.374,0.0742,1,0.17
+17,Keith Emerson,"The Endless Enigma Suite, Pt. 2",rock,sadness,joy,-10.944,0.298,0.23399999999999999,1,0.262
+18,Kim Kwang-seok,Get Up(with Common Ground),pop,sadness,joy,-6.377999999999999,0.516,0.706,0,0.6779999999999999
+19,Kim Kwang-seok,Where the Wind Rises(with Hareem),pop,joy,fear,-5.547999999999999,0.425,0.344,1,0.51
+20,Kingston Wall,Alt-Land-Is,rock,sadness,joy,-6.346,0.873,0.213,0,0.27399999999999997
+21,Kingston Wall,Another Piece of Cake,rock,sadness,anger,-7.154,0.759,0.47100000000000003,0,0.43200000000000005
+22,Kingston Wall,For All Mankind,rock,sadness,joy,-9.081,0.652,0.133,1,0.368
+23,Kingston Wall,"I'm the King, I'm the Sun",rock,joy,joy,-6.8839999999999995,0.893,0.33,1,0.489
+24,Kingston Wall,Party Goes On,rock,sadness,disgust,-5.794,0.948,0.264,0,0.332
+25,Kingston Wall,Take You to Sweet Harmony,rock,joy,joy,-8.204,0.604,0.48200000000000004,1,0.605
+26,Kingston Wall,The Real Thing,rock,joy,sadness,-10.419,0.397,0.0981,1,0.24
+27,Kingston Wall,Welcome to the Mirrorland,rock,joy,joy,-13.504000000000001,0.24,0.031,1,0.23800000000000002
+28,Material Issue,A Very Good Thing,pop,sadness,joy,-5.8870000000000005,0.8909999999999999,0.552,1,0.221
+29,Material Issue,Kim the Waitress,pop,joy,joy,-7.65,0.721,0.337,1,0.223
+30,Material Issue,She's Goin' Thru My Head,pop,joy,joy,-5.736000000000001,0.9670000000000001,0.36700000000000005,1,0.313
+31,Nick Drake,From the Morning,rock,joy,joy,-19.092,0.161,0.415,1,0.657
+32,Nick Drake,Parasite,rock,joy,disgust,-16.472,0.204,0.255,1,0.61
+33,Nick Drake,Pink Moon,rock,joy,joy,-15.435,0.26,0.491,1,0.456
+34,Nick Drake,Place to Be,rock,joy,joy,-16.29,0.223,0.441,1,0.52
+35,Nick Drake,Road,rock,joy,fear,-16.119,0.264,0.778,0,0.585
+36,Nick Drake,Things Behind the Sun,rock,joy,sadness,-17.421,0.175,0.259,1,0.6809999999999999
+37,Nick Drake,Which Will,rock,joy,joy,-17.283,0.185,0.43,0,0.637
+38,Owsley,Be With You,pop,sadness,joy,-3.738,0.912,0.299,1,0.523
+39,Owsley,Dirty Bird,pop,joy,disgust,-4.5169999999999995,0.9059999999999999,0.28300000000000003,1,0.275
+40,Owsley,Down,pop,sadness,sadness,-4.792,0.8740000000000001,0.23,0,0.259
+41,Owsley,Dude,pop,joy,anger,-3.95,0.872,0.223,1,0.309
+42,Owsley,Matriarch,pop,joy,sadness,-7.106,0.5529999999999999,0.133,1,0.521
+43,Owsley,Rise,pop,fear,fear,-4.479,0.8809999999999999,0.335,1,0.447
+44,Owsley,She's the One,pop,sadness,sadness,-4.711,0.815,0.32899999999999996,1,0.358
+45,Owsley,The Hard Way,pop,sadness,sadness,-5.962000000000001,0.7559999999999999,0.27399999999999997,0,0.511
+46,Owsley,Undone,pop,joy,joy,-4.025,0.929,0.31,1,0.29100000000000004
+47,Sparklehorse,Angel's Harp,rock,joy,joy,-5.252000000000001,0.69,0.423,0,0.502
+48,Sparklehorse,Daddy's Gone,rock,joy,joy,-6.832000000000001,0.728,0.38299999999999995,1,0.513
+49,Sparklehorse,Dark Night Of The Soul,rock,fear,fear,-5.678,0.912,0.8390000000000001,1,0.54
+50,Sparklehorse,Everytime I'm With You,rock,anger,joy,-8.019,0.522,0.39299999999999996,0,0.581
+51,Sparklehorse,Grim Augury,rock,joy,fear,-7.308,0.616,0.5329999999999999,0,0.34700000000000003
+52,Sparklehorse,Insane Lullaby,rock,joy,joy,-4.7860000000000005,0.6709999999999999,0.248,1,0.363
+53,Sparklehorse,Jaykub,rock,joy,sadness,-7.077000000000001,0.659,0.375,1,0.551
+54,Sparklehorse,Just War,rock,fear,fear,-6.805,0.521,0.11599999999999999,1,0.52
+55,Sparklehorse,Little Girl,rock,anger,joy,-5.678,0.912,0.8390000000000001,1,0.54
+56,Sparklehorse,Pain,rock,sadness,sadness,-4.532,0.978,0.0919,1,0.304
+57,Sparklehorse,Revenge,rock,anger,sadness,-9.84,0.524,0.433,0,0.528
+58,Sparklehorse,Star Eyes (I Can't Catch It),rock,joy,sadness,-4.971,0.546,0.19699999999999998,1,0.47
+59,Sparklehorse,The Man Who Played God,rock,joy,joy,-5.563,0.634,0.395,1,0.561
+60,Susan Fassbender,Merry-go-round,pop,joy,sadness,-10.002,0.485,0.484,1,0.569
+61,Yavuz Cetin,Benimle Ucmak Ister misin,rock,sadness,fear,-7.8420000000000005,0.72,0.446,1,0.27699999999999997
+62,Yavuz Cetin,Hersey Biter,rock,fear,joy,-7.327000000000001,0.695,0.556,0,0.5429999999999999
+63,Yavuz Cetin,Kole,rock,sadness,joy,-9.847000000000001,0.6579999999999999,0.308,0,0.29600000000000004
+64,Yavuz Cetin,Oyuncak Dunya,rock,sadness,disgust,-11.222999999999999,0.3,0.073,1,0.39399999999999996
+65,Yavuz Cetin,Sadece Senin Olmak,rock,joy,joy,-8.618,0.649,0.6,1,0.478
+66,Yavuz Cetin,Yasamak Istemem,rock,anger,sadness,-8.222000000000001,0.596,0.444,0,0.405
