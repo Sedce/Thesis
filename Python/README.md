@@ -1,3 +1,2 @@
-# An analysis of songs of Musicians who Committed suicide
-
+# An analysis of songs of Musicians usin K-means
 This github repository 
