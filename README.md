@@ -1,2 +1,2 @@
 # Thesis
-An analysis of songs from musicians who committed suicide
+An analysis of songs from musicians
